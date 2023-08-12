@@ -1,0 +1,322 @@
+[
+    {
+        "team_name": "Buffalo Bills",
+        "url": "/teams/nfl/buffalo-bills",
+        "roster": "/teams/nfl/buffalo-bills/roster",
+        "stats": "/teams/nfl/buffalo-bills/stats",
+        "results": "/teams/nfl/buffalo-bills/results",
+        "draft": "/teams/nfl/buffalo-bills/draft",
+        "transaction": "/teams/nfl/buffalo-bills/transaction",
+        "history": "/teams/nfl/buffalo-bills/history"
+    },
+    {
+        "team_name": "Miami Dolphins",
+        "url": "/teams/nfl/miami-dolphins",
+        "roster": "/teams/nfl/miami-dolphins/roster",
+        "stats": "/teams/nfl/miami-dolphins/stats",
+        "results": "/teams/nfl/miami-dolphins/results",
+        "draft": "/teams/nfl/miami-dolphins/draft",
+        "transaction": "/teams/nfl/miami-dolphins/transaction",
+        "history": "/teams/nfl/miami-dolphins/history"
+    },
+    {
+        "team_name": "New England Patriots",
+        "url": "/teams/nfl/new-england-patriots",
+        "roster": "/teams/nfl/new-england-patriots/roster",
+        "stats": "/teams/nfl/new-england-patriots/stats",
+        "results": "/teams/nfl/new-england-patriots/results",
+        "draft": "/teams/nfl/new-england-patriots/draft",
+        "transaction": "/teams/nfl/new-england-patriots/transaction",
+        "history": "/teams/nfl/new-england-patriots/history"
+    },
+    {
+        "team_name": "New York Jets",
+        "url": "/teams/nfl/new-york-jets",
+        "roster": "/teams/nfl/new-york-jets/roster",
+        "stats": "/teams/nfl/new-york-jets/stats",
+        "results": "/teams/nfl/new-york-jets/results",
+        "draft": "/teams/nfl/new-york-jets/draft",
+        "transaction": "/teams/nfl/new-york-jets/transaction",
+        "history": "/teams/nfl/new-york-jets/history"
+    },
+    {
+        "team_name": "Baltimore Ravens",
+        "url": "/teams/nfl/baltimore-ravens",
+        "roster": "/teams/nfl/baltimore-ravens/roster",
+        "stats": "/teams/nfl/baltimore-ravens/stats",
+        "results": "/teams/nfl/baltimore-ravens/results",
+        "draft": "/teams/nfl/baltimore-ravens/draft",
+        "transaction": "/teams/nfl/baltimore-ravens/transaction",
+        "history": "/teams/nfl/baltimore-ravens/history"
+    },
+    {
+        "team_name": "Cincinnati Bengals",
+        "url": "/teams/nfl/cincinnati-bengals",
+        "roster": "/teams/nfl/cincinnati-bengals/roster",
+        "stats": "/teams/nfl/cincinnati-bengals/stats",
+        "results": "/teams/nfl/cincinnati-bengals/results",
+        "draft": "/teams/nfl/cincinnati-bengals/draft",
+        "transaction": "/teams/nfl/cincinnati-bengals/transaction",
+        "history": "/teams/nfl/cincinnati-bengals/history"
+    },
+    {
+        "team_name": "Cleveland Browns",
+        "url": "/teams/nfl/cleveland-browns",
+        "roster": "/teams/nfl/cleveland-browns/roster",
+        "stats": "/teams/nfl/cleveland-browns/stats",
+        "results": "/teams/nfl/cleveland-browns/results",
+        "draft": "/teams/nfl/cleveland-browns/draft",
+        "transaction": "/teams/nfl/cleveland-browns/transaction",
+        "history": "/teams/nfl/cleveland-browns/history"
+    },
+    {
+        "team_name": "Pittsburgh Steelers",
+        "url": "/teams/nfl/pittsburgh-steelers",
+        "roster": "/teams/nfl/pittsburgh-steelers/roster",
+        "stats": "/teams/nfl/pittsburgh-steelers/stats",
+        "results": "/teams/nfl/pittsburgh-steelers/results",
+        "draft": "/teams/nfl/pittsburgh-steelers/draft",
+        "transaction": "/teams/nfl/pittsburgh-steelers/transaction",
+        "history": "/teams/nfl/pittsburgh-steelers/history"
+    },
+    {
+        "team_name": "Houston Texans",
+        "url": "/teams/nfl/houston-texans",
+        "roster": "/teams/nfl/houston-texans/roster",
+        "stats": "/teams/nfl/houston-texans/stats",
+        "results": "/teams/nfl/houston-texans/results",
+        "draft": "/teams/nfl/houston-texans/draft",
+        "transaction": "/teams/nfl/houston-texans/transaction",
+        "history": "/teams/nfl/houston-texans/history"
+    },
+    {
+        "team_name": "Indianapolis Colts",
+        "url": "/teams/nfl/indianapolis-colts",
+        "roster": "/teams/nfl/indianapolis-colts/roster",
+        "stats": "/teams/nfl/indianapolis-colts/stats",
+        "results": "/teams/nfl/indianapolis-colts/results",
+        "draft": "/teams/nfl/indianapolis-colts/draft",
+        "transaction": "/teams/nfl/indianapolis-colts/transaction",
+        "history": "/teams/nfl/indianapolis-colts/history"
+    },
+    {
+        "team_name": "Jacksonville Jaguars",
+        "url": "/teams/nfl/jacksonville-jaguars",
+        "roster": "/teams/nfl/jacksonville-jaguars/roster",
+        "stats": "/teams/nfl/jacksonville-jaguars/stats",
+        "results": "/teams/nfl/jacksonville-jaguars/results",
+        "draft": "/teams/nfl/jacksonville-jaguars/draft",
+        "transaction": "/teams/nfl/jacksonville-jaguars/transaction",
+        "history": "/teams/nfl/jacksonville-jaguars/history"
+    },
+    {
+        "team_name": "Tennessee Titans",
+        "url": "/teams/nfl/tennessee-titans",
+        "roster": "/teams/nfl/tennessee-titans/roster",
+        "stats": "/teams/nfl/tennessee-titans/stats",
+        "results": "/teams/nfl/tennessee-titans/results",
+        "draft": "/teams/nfl/tennessee-titans/draft",
+        "transaction": "/teams/nfl/tennessee-titans/transaction",
+        "history": "/teams/nfl/tennessee-titans/history"
+    },
+    {
+        "team_name": "Denver Broncos",
+        "url": "/teams/nfl/denver-broncos",
+        "roster": "/teams/nfl/denver-broncos/roster",
+        "stats": "/teams/nfl/denver-broncos/stats",
+        "results": "/teams/nfl/denver-broncos/results",
+        "draft": "/teams/nfl/denver-broncos/draft",
+        "transaction": "/teams/nfl/denver-broncos/transaction",
+        "history": "/teams/nfl/denver-broncos/history"
+    },
+    {
+        "team_name": "Kansas City Chiefs",
+        "url": "/teams/nfl/kansas-city-chiefs",
+        "roster": "/teams/nfl/kansas-city-chiefs/roster",
+        "stats": "/teams/nfl/kansas-city-chiefs/stats",
+        "results": "/teams/nfl/kansas-city-chiefs/results",
+        "draft": "/teams/nfl/kansas-city-chiefs/draft",
+        "transaction": "/teams/nfl/kansas-city-chiefs/transaction",
+        "history": "/teams/nfl/kansas-city-chiefs/history"
+    },
+    {
+        "team_name": "Las Vegas Raiders",
+        "url": "/teams/nfl/las-vegas-raiders",
+        "roster": "/teams/nfl/las-vegas-raiders/roster",
+        "stats": "/teams/nfl/las-vegas-raiders/stats",
+        "results": "/teams/nfl/las-vegas-raiders/results",
+        "draft": "/teams/nfl/las-vegas-raiders/draft",
+        "transaction": "/teams/nfl/las-vegas-raiders/transaction",
+        "history": "/teams/nfl/las-vegas-raiders/history"
+    },
+    {
+        "team_name": "Los Angeles Chargers",
+        "url": "/teams/nfl/los-angeles-chargers",
+        "roster": "/teams/nfl/los-angeles-chargers/roster",
+        "stats": "/teams/nfl/los-angeles-chargers/stats",
+        "results": "/teams/nfl/los-angeles-chargers/results",
+        "draft": "/teams/nfl/los-angeles-chargers/draft",
+        "transaction": "/teams/nfl/los-angeles-chargers/transaction",
+        "history": "/teams/nfl/los-angeles-chargers/history"
+    },
+    {
+        "team_name": "Dallas Cowboys",
+        "url": "/teams/nfl/dallas-cowboys",
+        "roster": "/teams/nfl/dallas-cowboys/roster",
+        "stats": "/teams/nfl/dallas-cowboys/stats",
+        "results": "/teams/nfl/dallas-cowboys/results",
+        "draft": "/teams/nfl/dallas-cowboys/draft",
+        "transaction": "/teams/nfl/dallas-cowboys/transaction",
+        "history": "/teams/nfl/dallas-cowboys/history"
+    },
+    {
+        "team_name": "New York Giants",
+        "url": "/teams/nfl/new-york-giants",
+        "roster": "/teams/nfl/new-york-giants/roster",
+        "stats": "/teams/nfl/new-york-giants/stats",
+        "results": "/teams/nfl/new-york-giants/results",
+        "draft": "/teams/nfl/new-york-giants/draft",
+        "transaction": "/teams/nfl/new-york-giants/transaction",
+        "history": "/teams/nfl/new-york-giants/history"
+    },
+    {
+        "team_name": "Philadelphia Eagles",
+        "url": "/teams/nfl/philadelphia-eagles",
+        "roster": "/teams/nfl/philadelphia-eagles/roster",
+        "stats": "/teams/nfl/philadelphia-eagles/stats",
+        "results": "/teams/nfl/philadelphia-eagles/results",
+        "draft": "/teams/nfl/philadelphia-eagles/draft",
+        "transaction": "/teams/nfl/philadelphia-eagles/transaction",
+        "history": "/teams/nfl/philadelphia-eagles/history"
+    },
+    {
+        "team_name": "Washington Commanders",
+        "url": "/teams/nfl/washington-commanders",
+        "roster": "/teams/nfl/washington-commanders/roster",
+        "stats": "/teams/nfl/washington-commanders/stats",
+        "results": "/teams/nfl/washington-commanders/results",
+        "draft": "/teams/nfl/washington-commanders/draft",
+        "transaction": "/teams/nfl/washington-commanders/transaction",
+        "history": "/teams/nfl/washington-commanders/history"
+    },
+    {
+        "team_name": "Chicago Bears",
+        "url": "/teams/nfl/chicago-bears",
+        "roster": "/teams/nfl/chicago-bears/roster",
+        "stats": "/teams/nfl/chicago-bears/stats",
+        "results": "/teams/nfl/chicago-bears/results",
+        "draft": "/teams/nfl/chicago-bears/draft",
+        "transaction": "/teams/nfl/chicago-bears/transaction",
+        "history": "/teams/nfl/chicago-bears/history"
+    },
+    {
+        "team_name": "Detroit Lions",
+        "url": "/teams/nfl/detroit-lions",
+        "roster": "/teams/nfl/detroit-lions/roster",
+        "stats": "/teams/nfl/detroit-lions/stats",
+        "results": "/teams/nfl/detroit-lions/results",
+        "draft": "/teams/nfl/detroit-lions/draft",
+        "transaction": "/teams/nfl/detroit-lions/transaction",
+        "history": "/teams/nfl/detroit-lions/history"
+    },
+    {
+        "team_name": "Green Bay Packers",
+        "url": "/teams/nfl/green-bay-packers",
+        "roster": "/teams/nfl/green-bay-packers/roster",
+        "stats": "/teams/nfl/green-bay-packers/stats",
+        "results": "/teams/nfl/green-bay-packers/results",
+        "draft": "/teams/nfl/green-bay-packers/draft",
+        "transaction": "/teams/nfl/green-bay-packers/transaction",
+        "history": "/teams/nfl/green-bay-packers/history"
+    },
+    {
+        "team_name": "Minnesota Vikings",
+        "url": "/teams/nfl/minnesota-vikings",
+        "roster": "/teams/nfl/minnesota-vikings/roster",
+        "stats": "/teams/nfl/minnesota-vikings/stats",
+        "results": "/teams/nfl/minnesota-vikings/results",
+        "draft": "/teams/nfl/minnesota-vikings/draft",
+        "transaction": "/teams/nfl/minnesota-vikings/transaction",
+        "history": "/teams/nfl/minnesota-vikings/history"
+    },
+    {
+        "team_name": "Atlanta Falcons",
+        "url": "/teams/nfl/atlanta-falcons",
+        "roster": "/teams/nfl/atlanta-falcons/roster",
+        "stats": "/teams/nfl/atlanta-falcons/stats",
+        "results": "/teams/nfl/atlanta-falcons/results",
+        "draft": "/teams/nfl/atlanta-falcons/draft",
+        "transaction": "/teams/nfl/atlanta-falcons/transaction",
+        "history": "/teams/nfl/atlanta-falcons/history"
+    },
+    {
+        "team_name": "Carolina Panthers",
+        "url": "/teams/nfl/carolina-panthers",
+        "roster": "/teams/nfl/carolina-panthers/roster",
+        "stats": "/teams/nfl/carolina-panthers/stats",
+        "results": "/teams/nfl/carolina-panthers/results",
+        "draft": "/teams/nfl/carolina-panthers/draft",
+        "transaction": "/teams/nfl/carolina-panthers/transaction",
+        "history": "/teams/nfl/carolina-panthers/history"
+    },
+    {
+        "team_name": "New Orleans Saints",
+        "url": "/teams/nfl/new-orleans-saints",
+        "roster": "/teams/nfl/new-orleans-saints/roster",
+        "stats": "/teams/nfl/new-orleans-saints/stats",
+        "results": "/teams/nfl/new-orleans-saints/results",
+        "draft": "/teams/nfl/new-orleans-saints/draft",
+        "transaction": "/teams/nfl/new-orleans-saints/transaction",
+        "history": "/teams/nfl/new-orleans-saints/history"
+    },
+    {
+        "team_name": "Tampa Bay Buccaneers",
+        "url": "/teams/nfl/tampa-bay-buccaneers",
+        "roster": "/teams/nfl/tampa-bay-buccaneers/roster",
+        "stats": "/teams/nfl/tampa-bay-buccaneers/stats",
+        "results": "/teams/nfl/tampa-bay-buccaneers/results",
+        "draft": "/teams/nfl/tampa-bay-buccaneers/draft",
+        "transaction": "/teams/nfl/tampa-bay-buccaneers/transaction",
+        "history": "/teams/nfl/tampa-bay-buccaneers/history"
+    },
+    {
+        "team_name": "Arizona Cardinals",
+        "url": "/teams/nfl/arizona-cardinals",
+        "roster": "/teams/nfl/arizona-cardinals/roster",
+        "stats": "/teams/nfl/arizona-cardinals/stats",
+        "results": "/teams/nfl/arizona-cardinals/results",
+        "draft": "/teams/nfl/arizona-cardinals/draft",
+        "transaction": "/teams/nfl/arizona-cardinals/transaction",
+        "history": "/teams/nfl/arizona-cardinals/history"
+    },
+    {
+        "team_name": "Los Angeles Rams",
+        "url": "/teams/nfl/los-angeles-rams",
+        "roster": "/teams/nfl/los-angeles-rams/roster",
+        "stats": "/teams/nfl/los-angeles-rams/stats",
+        "results": "/teams/nfl/los-angeles-rams/results",
+        "draft": "/teams/nfl/los-angeles-rams/draft",
+        "transaction": "/teams/nfl/los-angeles-rams/transaction",
+        "history": "/teams/nfl/los-angeles-rams/history"
+    },
+    {
+        "team_name": "San Francisco 49ers",
+        "url": "/teams/nfl/san-francisco-49ers",
+        "roster": "/teams/nfl/san-francisco-49ers/roster",
+        "stats": "/teams/nfl/san-francisco-49ers/stats",
+        "results": "/teams/nfl/san-francisco-49ers/results",
+        "draft": "/teams/nfl/san-francisco-49ers/draft",
+        "transaction": "/teams/nfl/san-francisco-49ers/transaction",
+        "history": "/teams/nfl/san-francisco-49ers/history"
+    },
+    {
+        "team_name": "Seattle Seahawks",
+        "url": "/teams/nfl/seattle-seahawks",
+        "roster": "/teams/nfl/seattle-seahawks/roster",
+        "stats": "/teams/nfl/seattle-seahawks/stats",
+        "results": "/teams/nfl/seattle-seahawks/results",
+        "draft": "/teams/nfl/seattle-seahawks/draft",
+        "transaction": "/teams/nfl/seattle-seahawks/transaction",
+        "history": "/teams/nfl/seattle-seahawks/history"
+    }
+]
