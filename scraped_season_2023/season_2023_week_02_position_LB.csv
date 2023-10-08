@@ -1,0 +1,304 @@
+Player,Name,Position,Team,Opp,Manager,Tackles_Tot,Tackles_Ast,Tackles_Sck,Tackles_TFL,Turnover_Int,Turnover_Frc Fum,Turnover_Fum Rec,Score_Int TD,Score_FumTD,Score_Blk TD,Score_Saf,Score_Def 2pt Ret,Other_Blk,Other_PDef,Other_QB Hit,Return_Int Yds,Fantasy_Points
+Micah Parsons LB - DAL,Micah Parsons,LB,DAL,NYJ,Magic Eulers,4.0,,2.0,3.0,,1.0,1.0,,,,,,,1.0,4.0,,47.0
+Danielle Hunter LB - MIN,Danielle Hunter,LB,MIN,@PHI,St Quintin Heidschnucken,5.0,3.0,3.0,3.0,,,,,,,,,,,3.0,,46.5
+Frankie Luvu LB - CAR Q,Frankie Luvu,LB,CAR,NO,Bad Wildcats Hunschat,4.0,5.0,2.0,3.0,,,,,,,,,,,2.0,,38.5
+Alex Highsmith LB - PIT,Alex Highsmith,LB,PIT,CLE,St Quintin Heidschnucken,5.0,2.0,1.0,1.0,1.0,1.0,,1.0,,,,,,1.0,2.0,30.0,37.0
+Joe Tryon-Shoyinka LB - TB,Joe,Tryon,Shoyinka,CHI,FA,4.0,,2.0,2.0,,,,,,,,,,,3.0,,36.0
+Jonathon Cooper LB - DEN,Jonathon Cooper,LB,DEN,WAS,FA,3.0,5.0,2.0,1.0,,1.0,,,,,,,,,1.0,,34.5
+Joey Bosa LB - LAC Q View News,Joey Bosa,LB,LAC,@TEN,GLADIATORS of NORSCHT,3.0,1.0,2.0,2.0,,,,,,,,,,,2.0,,33.5
+Robert Spillane LB - LV,Robert Spillane,LB,LV,@BUF,Slay,8.0,6.0,1.0,1.0,,,,,,,,,,,1.0,,31.0
+Fred Warner LB - SF,Fred Warner,LB,SF,@LA,dirty birds,9.0,2.0,1.0,1.0,,,,,,,,,,1.0,1.0,,31.0
+T.J. Watt LB - PIT,T.J. Watt,LB,PIT,CLE,Magic Eulers,2.0,2.0,1.0,2.0,,,1.0,,1.0,,,,,1.0,4.0,,31.0
+Quay Walker LB - GB,Quay Walker,LB,GB,@ATL,Slay,8.0,9.0,,,,,,,,,,,,1.0,1.0,,25.5
+Bradley Chubb LB - MIA,Bradley Chubb,LB,MIA,@NE,Bad Wildcats Hunschat,5.0,2.0,1.0,2.0,,1.0,,,,,,,,,2.0,,23.0
+Zaire Franklin LB - IND,Zaire Franklin,LB,IND,@HOU,Koblenz 87ers,8.0,5.0,,1.0,,,,,,,,,,,,,22.5
+Tremaine Edmunds LB - CHI,Tremaine Edmunds,LB,CHI,@TB,FlyRamsFly,8.0,7.0,,,,,,,,,,,,,,,21.5
+Shaquil Barrett LB - TB,Shaquil Barrett,LB,TB,CHI,St Quintin Heidschnucken,2.0,,1.0,,1.0,,,1.0,,,,,,1.0,1.0,4.0,20.8
+De'Vondre Campbell LB - GB IA,De'Vondre Campbell,LB,GB,@ATL,W (Oct 4),7.0,7.0,,,,,,,,,,,,,,,20.5
+Kenneth Murray LB - LAC View News,Kenneth Murray,LB,LAC,@TEN,FA,5.0,5.0,1.0,2.0,,,,,,,,,,,1.0,,19.5
+Andrew Van Ginkel LB - MIA View News,Andrew Van Ginkel,LB,MIA,@NE,FA,2.0,4.0,1.0,1.0,,,,,,,,,,1.0,3.0,,19.0
+David Long LB - MIA,David Long,LB,MIA,@NE,FA,5.0,3.0,1.0,1.0,,,,,,,,,,,2.0,,18.5
+Divine Deablo LB - LV,Divine Deablo,LB,LV,@BUF,Bad Wildcats Hunschat,6.0,4.0,1.0,1.0,,,,,,,,,,,1.0,,18.0
+Matt Judon LB - NE,Matt Judon,LB,NE,MIA,Alta Villa Cardinals,4.0,,1.0,2.0,,,,,,,,,,,2.0,,18.0
+Jadeveon Clowney LB - BAL,Jadeveon Clowney,LB,BAL,@CIN,FA,3.0,1.0,1.0,1.0,,,,,,,,,,1.0,2.0,,16.5
+Alex Anzalone LB - DET,Alex Anzalone,LB,DET,SEA,Slay,5.0,2.0,1.0,1.0,,,,,,,,,,,1.0,,16.0
+Nik Bonitto LB - DEN,Nik Bonitto,LB,DEN,WAS,FA,2.0,,1.0,2.0,,,,,,,,,,,2.0,,16.0
+Kaden Elliss LB - ATL,Kaden Elliss,LB,ATL,GB,Slay,6.0,,1.0,1.0,,,,,,,,,,,1.0,,16.0
+Kyzir White LB - ARI,Kyzir White,LB,ARI,NYG,Alta Villa Cardinals,5.0,2.0,1.0,1.0,,,,,,,,,,,1.0,,16.0
+Demario Davis LB - NO,Demario Davis,LB,NO,@CAR,St Quintin Heidschnucken,4.0,3.0,1.0,1.0,,,,,,,,,,,1.0,,15.5
+Jamin Davis LB - WAS,Jamin Davis,LB,WAS,@DEN,dirty birds,2.0,1.0,1.0,,,1.0,,,,,,,,,2.0,,15.5
+Kamu Grugier-Hill LB - CAR,Kamu,Grugier,Hill,NO,FA,5.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,15.5
+Tuli Tuipulotu LB - LAC,Tuli Tuipulotu,LB,LAC,@TEN,FA,3.0,4.0,1.0,1.0,,,,,,,,,,,1.0,,15.0
+Cody Barton LB - WAS,Cody Barton,LB,WAS,@DEN,Wbn Beasts,4.0,6.0,,,,,1.0,,,,,,,,2.0,,14.0
+Samson Ebukam LB - IND,Samson Ebukam,LB,IND,@HOU,FA,2.0,,1.0,1.0,,,,,,,,,,,2.0,,14.0
+Cam Gill LB - TB,Cam Gill,LB,TB,CHI,FA,1.0,,1.0,,,1.0,,,,,,,,,1.0,,12.0
+Harold Landry LB - TEN,Harold Landry,LB,TEN,LAC,Magic Eulers,1.0,2.0,1.0,1.0,,,,,,,,,,,1.0,,12.0
+C.J. Mosley LB - NYJ,C.J. Mosley,LB,NYJ,@DAL,FlyRamsFly,5.0,4.0,,1.0,,,,,,,,,,1.0,1.0,,12.0
+Sione Takitaki LB - CLE,Sione Takitaki,LB,CLE,@PIT,FA,2.0,,1.0,1.0,,,,,,,,,,,1.0,,12.0
+K'Lavon Chaisson LB - JAX,K'Lavon Chaisson,LB,JAX,KC,FA,1.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,11.5
+Jordan Hicks LB - MIN,Jordan Hicks,LB,MIN,@PHI,Wbn Beasts,8.0,3.0,,1.0,,,,,,,,,,,,,11.5
+Ivan Pace Jr. LB - MIN,Ivan Pace Jr.,LB,MIN,@PHI,FA,5.0,3.0,0.5,,,,,,,,,,,,1.0,,11.5
+Jake Martin LB - IND,Jake Martin,LB,IND,@HOU,FA,1.0,,1.0,1.0,,,,,,,,,,,1.0,,11.0
+Foye Oluokun LB - JAX,Foye Oluokun,LB,JAX,KC,Koblenz 87ers,6.0,4.0,,,,,1.0,,,,,,,,,,11.0
+Cole Holcomb LB - PIT,Cole Holcomb,LB,PIT,CLE,Koblenz 87ers,3.0,5.0,,1.0,,1.0,,,,,,,,,,,10.5
+Logan Wilson LB - CIN,Logan Wilson,LB,CIN,BAL,dirty birds,7.0,3.0,,1.0,,,,,,,,,,,,,10.5
+Dre Greenlaw LB - SF Q,Dre Greenlaw,LB,SF,@LA,Wbn Beasts,7.0,4.0,,,,,,,,,,,,1.0,,,10.0
+Devin Lloyd LB - JAX O,Devin Lloyd,LB,JAX,KC,Koblenz 87ers,5.0,6.0,,,,,,,,,,,,2.0,,,10.0
+Krys Barnes LB - ARI Q,Krys Barnes,LB,ARI,NYG,FA,6.0,1.0,,1.0,,,,,,,,,,1.0,,,9.5
+Justin Houston LB - CAR,Justin Houston,LB,CAR,NO,FA,1.0,1.0,0.5,1.0,,,,,,,,,,1.0,1.0,,9.5
+Josey Jewell LB - DEN O View News,Josey Jewell,LB,DEN,WAS,Boppard Raiders,7.0,2.0,,,,,,,,,,,,1.0,,,9.0
+Uchenna Nwosu LB - SEA,Uchenna Nwosu,LB,SEA,@DET,Magic Eulers,2.0,,,1.0,,1.0,,,,,,,,,1.0,,9.0
+Terrel Bernard LB - BUF,Terrel Bernard,LB,BUF,LV,FlyRamsFly,3.0,3.0,,,1.0,,,,,,,,,1.0,,,8.5
+Zach Cunningham LB - PHI,Zach Cunningham,LB,PHI,MIN,FA,5.0,3.0,,1.0,,,,,,,,,,,,,8.5
+Victor Dimukeje LB - ARI,Victor Dimukeje,LB,ARI,NYG,FA,1.0,1.0,0.5,,,,,,,,,,,,2.0,,8.5
+T.J. Edwards LB - CHI,T.J. Edwards,LB,CHI,@TB,Boppard Raiders,5.0,7.0,,,,,,,,,,,,,,,8.5
+Bobby Okereke LB - NYG,Bobby Okereke,LB,NYG,@ARI,Washington Fantasy Team,5.0,3.0,,1.0,,,,,,,,,,,,,8.5
+Patrick Queen LB - BAL,Patrick Queen,LB,BAL,@CIN,dirty birds,5.0,3.0,,,,,,,,,,,,,1.0,,8.5
+Bobby Wagner LB - SEA,Bobby Wagner,LB,SEA,@DET,FlyRamsFly,7.0,3.0,,,,,,,,,,,,,,,8.5
+Matt Milano LB - BUF,Matt Milano,LB,BUF,LV,Bad Wildcats Hunschat,3.0,1.0,,,1.0,,,,,,,,,1.0,,3.0,8.1
+Nicholas Morrow LB - PHI,Nicholas Morrow,LB,PHI,MIN,FA,3.0,,,,,,1.0,,,,,,,,1.0,,8.0
+Jeremiah Owusu-Koramoah LB - CLE,Jeremiah,Owusu,Koramoah,@PIT,FA,4.0,,,2.0,,,,,,,,,,,,,8.0
+Germaine Pratt LB - CIN,Germaine Pratt,LB,CIN,BAL,FA,7.0,2.0,,,,,,,,,,,,,,,8.0
+Quincy Williams LB - NYJ,Quincy Williams,LB,NYJ,@DAL,GLADIATORS of NORSCHT,7.0,,,,,,,,,,,,,1.0,,,8.0
+Zaven Collins LB - ARI,Zaven Collins,LB,ARI,NYG,FA,2.0,1.0,0.5,,,,,,,,,,,,1.0,,7.5
+Ernest Jones LB - LA,Ernest Jones,LB,LA,SF,Washington Fantasy Team,5.0,5.0,,,,,,,,,,,,,,,7.5
+Preston Smith LB - GB View News,Preston Smith,LB,GB,@ATL,W (Oct 4),4.0,2.0,,,,,,,,,,,,,1.0,,7.0
+Azeez Al-Shaair LB - TEN,Azeez,Al,Shaair,LAC,Washington Fantasy Team,5.0,3.0,,,,,,,,,,,,,,,6.5
+Nick Bolton LB - KC O View News,Nick Bolton,LB,KC,@JAX,Washington Fantasy Team,5.0,3.0,,,,,,,,,,,,,,,6.5
+Micah McFadden LB - NYG,Micah McFadden,LB,NYG,@ARI,FA,4.0,1.0,,,,,,,,,,,,,1.0,,6.5
+Nick Niemann LB - LAC,Nick Niemann,LB,LAC,@TEN,FA,4.0,5.0,,,,,,,,,,,,,,,6.5
+Rashan Gary LB - GB,Rashan Gary,LB,GB,@ATL,GLADIATORS of NORSCHT,,2.0,0.5,,,,,,,,,,,,1.0,,6.0
+Denzel Perryman LB - HOU O View News,Denzel Perryman,LB,HOU,IND,FA,5.0,2.0,,,,,,,,,,,,,,,6.0
+Jahlani Tavai LB - NE,Jahlani Tavai,LB,NE,MIA,FA,5.0,2.0,,,,,,,,,,,,,,,6.0
+Derrick Barnes LB - DET Q,Derrick Barnes,LB,DET,SEA,W (Oct 4),4.0,3.0,,,,,,,,,,,,,,,5.5
+Leo Chenal LB - KC,Leo Chenal,LB,KC,@JAX,FA,3.0,1.0,,1.0,,,,,,,,,,,,,5.5
+Nate Landman LB - ATL,Nate Landman,LB,ATL,GB,FA,3.0,1.0,,1.0,,,,,,,,,,,,,5.5
+Khalil Mack LB - LAC,Khalil Mack,LB,LAC,@TEN,GLADIATORS of NORSCHT,3.0,3.0,,,,,,,,,,,,1.0,,,5.5
+Anthony Walker LB - CLE,Anthony Walker,LB,CLE,@PIT,FA,3.0,1.0,,,,,,,,,,,,,1.0,,5.5
+Jack Campbell LB - DET,Jack Campbell,LB,DET,SEA,W (Oct 4),4.0,2.0,,,,,,,,,,,,,,,5.0
+Jamien Sherwood LB - NYJ,Jamien Sherwood,LB,NYJ,@DAL,FA,3.0,4.0,,,,,,,,,,,,,,,5.0
+Pete Werner LB - NO,Pete Werner,LB,NO,@CAR,Alta Villa Cardinals,3.0,4.0,,,,,,,,,,,,,,,5.0
+Jerome Baker LB - MIA,Jerome Baker,LB,MIA,@NE,Bad Wildcats Hunschat,3.0,3.0,,,,,,,,,,,,,,,4.5
+Ja'Whaun Bentley LB - NE,Ja'Whaun Bentley,LB,NE,MIA,Boppard Raiders,3.0,3.0,,,,,,,,,,,,,,,4.5
+Drue Tranquill LB - KC,Drue Tranquill,LB,KC,@JAX,FA,4.0,1.0,,,,,,,,,,,,,,,4.5
+Akeem Davis-Gaither LB - CIN Q View News,Akeem,Davis,Gaither,BAL,FA,2.0,,,1.0,,,,,,,,,,,,,4.0
+Troy Dye LB - MIN,Troy Dye,LB,MIN,@PHI,FA,1.0,,,,,1.0,,,,,,,,,,,4.0
+Jack Gibbens LB - TEN,Jack Gibbens,LB,TEN,LAC,FA,3.0,2.0,,,,,,,,,,,,,,,4.0
+Devin White LB - TB Q View News,Devin White,LB,TB,CHI,Alta Villa Cardinals,,2.0,,,,,,,,,,,,1.0,1.0,,4.0
+Arnold Ebiketie LB - ATL,Arnold Ebiketie,LB,ATL,GB,FA,1.0,1.0,,,,,,,,,,,,,1.0,,3.5
+Kingsley Enagbare LB - GB,Kingsley Enagbare,LB,GB,@ATL,W (Oct 4),3.0,1.0,,,,,,,,,,,,,,,3.5
+Shaquille Leonard LB - IND,Shaquille Leonard,LB,IND,@HOU,FA,3.0,1.0,,,,,,,,,,,,,,,3.5
+Noah Sewell LB - CHI,Noah Sewell,LB,CHI,@TB,FA,,1.0,,,,1.0,,,,,,,,,,,3.5
+Alex Singleton LB - DEN,Alex Singleton,LB,DEN,WAS,Koblenz 87ers,3.0,1.0,,,,,,,,,,,,,,,3.5
+Roquan Smith LB - BAL,Roquan Smith,LB,BAL,@CIN,Alta Villa Cardinals,2.0,3.0,,,,,,,,,,,,,,,3.5
+Lukas Van Ness LB - GB,Lukas Van Ness,LB,GB,@ATL,W (Oct 4),1.0,1.0,,1.0,,,,,,,,,,,,,3.5
+Travon Walker LB - JAX,Travon Walker,LB,JAX,KC,FA,1.0,1.0,,1.0,,,,,,,,,,,,,3.5
+Josh Allen LB - JAX,Josh Allen,LB,JAX,KC,GLADIATORS of NORSCHT,1.0,,,,,,,,,,,,,,1.0,,3.0
+Justin Hollins LB - GB,Justin Hollins,LB,GB,@ATL,W (Oct 4),3.0,,,,,,,,,,,,,,,,3.0
+Christian Rozeboom LB - LA,Christian Rozeboom,LB,LA,SF,FA,1.0,4.0,,,,,,,,,,,,,,,3.0
+Jack Sanborn LB - CHI,Jack Sanborn,LB,CHI,@TB,FA,2.0,2.0,,,,,,,,,,,,,,,3.0
+Leighton Vander Esch LB - DAL,Leighton Vander Esch,LB,DAL,NYJ,FA,2.0,2.0,,,,,,,,,,,,,,,3.0
+Nick Herbig LB - PIT,Nick Herbig,LB,PIT,CLE,FA,2.0,1.0,,,,,,,,,,,,,,,2.5
+Arden Key LB - TEN,Arden Key,LB,TEN,LAC,FA,,,,,,,,,,,,,,,1.0,,2.0
+David Ojabo LB - BAL O View News,David Ojabo,LB,BAL,@CIN,FA,2.0,,,,,,,,,,,,,,,,2.0
+Odafe Oweh LB - BAL O View News,Odafe Oweh,LB,BAL,@CIN,FA,,,,,,,,,,,,,,,1.0,,2.0
+Elandon Roberts LB - PIT,Elandon Roberts,LB,PIT,CLE,FA,2.0,,,,,,,,,,,,,,,,2.0
+Malcolm Rodriguez LB - DET,Malcolm Rodriguez,LB,DET,SEA,W (Oct 4),2.0,,,,,,,,,,,,,,,,2.0
+Isaiah Simmons LB - NYG,Isaiah Simmons,LB,NYG,@ARI,Boppard Raiders,2.0,,,,,,,,,,,,,,,,2.0
+Kayvon Thibodeaux LB - NYG,Kayvon Thibodeaux,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,1.0,,2.0
+Dorian Williams LB - BUF,Dorian Williams,LB,BUF,LV,FA,2.0,,,,,,,,,,,,,,,,2.0
+Brian Asamoah LB - MIN,Brian Asamoah,LB,MIN,@PHI,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Lavonte David LB - TB,Lavonte David,LB,TB,CHI,Wbn Beasts,1.0,1.0,,,,,,,,,,,,,,,1.5
+Willie Gay Jr. LB - KC,Willie Gay Jr.,LB,KC,@JAX,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Devin Harper LB - CIN View News,Devin Harper,LB,CIN,BAL,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Rashad Weaver LB - TEN,Rashad Weaver,LB,TEN,LAC,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Chris Board LB - NE,Chris Board,LB,NE,MIA,FA,1.0,,,,,,,,,,,,,,,,1.0
+Lorenzo Carter LB - ATL,Lorenzo Carter,LB,ATL,GB,FA,1.0,,,,,,,,,,,,,,,,1.0
+Jack Cochrane LB - KC,Jack Cochrane,LB,KC,@JAX,FA,1.0,,,,,,,,,,,,,,,,1.0
+Bud Dupree LB - ATL,Bud Dupree,LB,ATL,GB,FA,1.0,,,,,,,,,,,,,,,,1.0
+Malik Harrison LB - BAL,Malik Harrison,LB,BAL,@CIN,FA,1.0,,,,,,,,,,,,,,,,1.0
+James Houston LB - DET IR,James Houston,LB,DET,SEA,W (Oct 4),1.0,,,,,,,,,,,,,,,,1.0
+Marte Mapu LB - NE,Marte Mapu,LB,NE,MIA,FA,,2.0,,,,,,,,,,,,,,,1.0
+Segun Olubi LB - IND,Segun Olubi,LB,IND,@HOU,FA,1.0,,,,,,,,,,,,,,,,1.0
+Shaquille Quarterman LB - JAX,Shaquille Quarterman,LB,JAX,KC,FA,1.0,,,,,,,,,,,,,,,,1.0
+Jalen Reeves-Maybin LB - DET,Jalen,Reeves,Maybin,SEA,W (Oct 4),,2.0,,,,,,,,,,,,,,,1.0
+Monty Rice LB - TEN,Monty Rice,LB,TEN,LAC,FA,1.0,,,,,,,,,,,,,,,,1.0
+Andre Smith LB - ATL,Andre Smith,LB,ATL,GB,FA,1.0,,,,,,,,,,,,,,,,1.0
+Joe Bachie LB - CIN,Joe Bachie,LB,CIN,BAL,FA,,1.0,,,,,,,,,,,,,,,0.5
+Damone Clark LB - DAL,Damone Clark,LB,DAL,NYJ,FA,,1.0,,,,,,,,,,,,,,,0.5
+Dylan Cole LB - CHI,Dylan Cole,LB,CHI,@TB,FA,,1.0,,,,,,,,,,,,,,,0.5
+Tae Davis LB - ATL,Tae Davis,LB,ATL,GB,FA,,1.0,,,,,,,,,,,,,,,0.5
+Luke Gifford LB - TEN O View News,Luke Gifford,LB,TEN,LAC,FA,,1.0,,,,,,,,,,,,,,,0.5
+Christian Harris LB - HOU,Christian Harris,LB,HOU,IND,FA,,1.0,,,,,,,,,,,,,,,0.5
+Tanoh Kpassagnon LB - NO,Tanoh Kpassagnon,LB,NO,@CAR,FA,,1.0,,,,,,,,,,,,,,,0.5
+Jesse Luketa LB - ARI,Jesse Luketa,LB,ARI,NYG,FA,,1.0,,,,,,,,,,,,,,,0.5
+Amen Ogbongbemiga LB - LAC,Amen Ogbongbemiga,LB,LAC,@TEN,FA,,1.0,,,,,,,,,,,,,,,0.5
+Tyreke Smith LB - SEA,Tyreke Smith,LB,SEA,@DET,FA,,1.0,,,,,,,,,,,,,,,0.5
+Zeke Turner LB - ARI,Zeke Turner,LB,ARI,NYG,FA,,1.0,,,,,,,,,,,,,,,0.5
+Yasir Abdullah LB - JAX,Yasir Abdullah,LB,JAX,KC,FA,,,,,,,,,,,,,,,,,0.0
+Matthew Adams LB - CLE,Matthew Adams,LB,CLE,@PIT,FA,,,,,,,,,,,,,,,,,0.0
+Christopher Allen LB Q,Christopher Allen LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Troy Andersen LB - ATL IR,Troy Andersen,LB,ATL,GB,FA,,,,,,,,,,,,,,,,,0.0
+Markus Bailey LB - CIN,Markus Bailey,LB,CIN,BAL,FA,,,,,,,,,,,,,,,,,0.0
+Zaire Barnes LB - NYJ,Zaire Barnes,LB,NYJ,@DAL,FA,,,,,,,,,,,,,,,,,0.0
+Tarell Basham LB,Tarell Basham,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Zack Baun LB - NO,Zack Baun,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Robert Beal Jr. LB - SF IR,Robert Beal Jr.,LB,SF,@LA,FA,,,,,,,,,,,,,,,,,0.0
+Darrian Beavers LB - NYG,Darrian Beavers,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Rashod Berry LB SUS,Rashod Berry LB,SUS,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Curtis Bolton LB - LV O View News,Curtis Bolton,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Tyus Bowser LB - BAL NFI-R,Tyus Bowser,LB,BAL,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Shaun Bradley LB - PHI IR,Shaun Bradley,LB,PHI,MIN,FA,,,,,,,,,,,,,,,,,0.0
+Cameron Brown LB - NYG,Cameron Brown,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Baron Browning LB - DEN PUP,Baron Browning,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Oren Burks LB - SF,Oren Burks,LB,SF,@LA,FA,,,,,,,,,,,,,,,,,0.0
+Amari Burney LB - LV,Amari Burney,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Devin Bush LB - SEA,Devin Bush,LB,SEA,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Darien Butler LB - LV IR,Darien Butler,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Chance Campbell LB - TEN,Chance Campbell,LB,TEN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Owen Carney LB,Owen Carney,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jermaine Carter LB,Jermaine Carter,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Cole Christiansen LB - KC,Cole Christiansen,LB,KC,@JAX,FA,,,,,,,,,,,,,,,,,0.0
+Frank Clark LB - DEN O View News,Frank Clark,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Ryan Connelly LB - NO O,Ryan Connelly,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Carter Coughlin LB - NYG,Carter Coughlin,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Jabril Cox LB - WAS,Jabril Cox,LB,WAS,@DEN,FA,,,,,,,,,,,,,,,,,0.0
+Tae Crowder LB,Tae Crowder,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Marcus Davenport LB - MIN Q View News,Marcus Davenport,LB,MIN,@PHI,FA,,,,,,,,,,,,,,,,,0.0
+Jarrad Davis LB - NYG IR,Jarrad Davis,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Nakobe Dean LB - PHI IR,Nakobe Dean,LB,PHI,MIN,FA,,,,,,,,,,,,,,,,,0.0
+Kuony Deng LB,Kuony Deng,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+SirVocea Dennis LB - TB O View News,SirVocea Dennis,LB,TB,CHI,FA,,,,,,,,,,,,,,,,,0.0
+De'Shaan Dixon LB - JAX,De'Shaan Dixon,LB,JAX,KC,FA,,,,,,,,,,,,,,,,,0.0
+Tyrel Dodson LB - BUF,Tyrel Dodson,LB,BUF,LV,FA,,,,,,,,,,,,,,,,,0.0
+JoJo Domann LB Q,JoJo Domann LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Andrew Dowell LB - NO IR,Andrew Dowell,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Emeke Egbule LB,Emeke Egbule,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Dorian Etheridge LB,Dorian Etheridge,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Rashaan Evans LB,Rashaan Evans,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Olakunle Fatukasi LB Q,Olakunle Fatukasi LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Tony Fields II LB - CLE,Tony Fields II,LB,CLE,@PIT,FA,,,,,,,,,,,,,,,,,0.0
+Demetrius Flannigan-Fowles LB - SF Q,Demetrius,Flannigan,Fowles,@LA,FA,,,,,,,,,,,,,,,,,0.0
+Tomon Fox LB - NYG,Tomon Fox,LB,NYG,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Chris Garrett LB,Chris Garrett,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jonathan Garvin LB,Jonathan Garvin,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+DeMarquis Gates LB - CHI,DeMarquis Gates,LB,CHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Nate Gerry LB,Nate Gerry,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Ulysees Gilbert LB,Ulysees Gilbert,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Trevis Gipson LB - TEN,Trevis Gipson,LB,TEN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Cameron Goode LB - MIA,Cameron Goode,LB,MIA,@NE,FA,,,,,,,,,,,,,,,,,0.0
+Jalen Graham LB - SF,Jalen Graham,LB,SF,@LA,FA,,,,,,,,,,,,,,,,,0.0
+Jonas Griffith LB - DEN IR,Jonas Griffith,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Derick Hall LB - SEA Q,Derick Hall,LB,SEA,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Terez Hall LB - NE IR,Terez Hall,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Nick Hampton LB - LA,Nick Hampton,LB,LA,SF,FA,,,,,,,,,,,,,,,,,0.0
+Jake Hansen LB - HOU,Jake Hansen,LB,HOU,IND,FA,,,,,,,,,,,,,,,,,0.0
+Daniel Hardy LB - CHI,Daniel Hardy,LB,CHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Darius Harris LB Q,Darius Harris LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+De'Jon Harris LB - WAS,De'Jon Harris,LB,WAS,@DEN,FA,,,,,,,,,,,,,,,,,0.0
+Daelin Hayes LB Q,Daelin Hayes LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Daiyan Henley LB - LAC,Daiyan Henley,LB,LAC,@TEN,FA,,,,,,,,,,,,,,,,,0.0
+Travin Howard LB,Travin Howard,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jacob Hummel LB - LA,Jacob Hummel,LB,LA,SF,FA,,,,,,,,,,,,,,,,,0.0
+Joel Iyiegbuniwe LB,Joel Iyiegbuniwe,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Myles Jack LB,Myles Jack,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+D'Marco Jackson LB - NO,D'Marco Jackson,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Storey Jackson LB,Storey Jackson,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Malik Jefferson LB - DAL,Malik Jefferson,LB,DAL,NYJ,FA,,,,,,,,,,,,,,,,,0.0
+Anfernee Jennings LB - NE,Anfernee Jennings,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Matthew Jester LB,Matthew Jester,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Caleb Johnson LB - JAX,Caleb Johnson,LB,JAX,KC,FA,,,,,,,,,,,,,,,,,0.0
+DJ Johnson LB - CAR,DJ Johnson,LB,CAR,NO,FA,,,,,,,,,,,,,,,,,0.0
+Kyron Johnson LB - PHI,Kyron Johnson,LB,PHI,MIN,FA,,,,,,,,,,,,,,,,,0.0
+Patrick Johnson LB - PHI,Patrick Johnson,LB,PHI,MIN,FA,,,,,,,,,,,,,,,,,0.0
+Clay Johnston LB,Clay Johnston,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Andre Jones Jr. LB - WAS,Andre Jones Jr.,LB,WAS,@DEN,FA,,,,,,,,,,,,,,,,,0.0
+Deion Jones LB - CAR,Deion Jones,LB,CAR,NO,FA,,,,,,,,,,,,,,,,,0.0
+Keandre Jones LB,Keandre Jones,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Kobe Jones LB,Kobe Jones,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Vi Jones LB,Vi Jones,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Sam Kamara LB - CLE,Sam Kamara,LB,CLE,@PIT,FA,,,,,,,,,,,,,,,,,0.0
+Eric Kendricks LB - LAC View News,Eric Kendricks,LB,LAC,@TEN,FA,,,,,,,,,,,,,,,,,0.0
+Christian Kirksey LB,Christian Kirksey,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jordan Kunaszyk LB - CLE IR,Jordan Kunaszyk,LB,CLE,@PIT,FA,,,,,,,,,,,,,,,,,0.0
+William Kwenkeu LB - MIN IR,William Kwenkeu,LB,MIN,@PHI,FA,,,,,,,,,,,,,,,,,0.0
+Harvey Langi LB,Harvey Langi,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Elijah Lee LB,Elijah Lee,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Cory Littleton LB - HOU,Cory Littleton,LB,HOU,IND,FA,,,,,,,,,,,,,,,,,0.0
+Damon Lloyd LB,Damon Lloyd,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Blake Lynch LB Q,Blake Lynch LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Tyreek Maddox-Williams LB - ARI,Tyreek,Maddox,Williams,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Boye Mafe LB - SEA,Boye Mafe,LB,SEA,@DET,FA,,,,,,,,,,,,,,,,,0.0
+DeAngelo Malone LB - ATL,DeAngelo Malone,LB,ATL,GB,FA,,,,,,,,,,,,,,,,,0.0
+Luke Masterson LB - LV,Luke Masterson,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Tyler Matakevich LB - BUF,Tyler Matakevich,LB,BUF,LV,FA,,,,,,,,,,,,,,,,,0.0
+Kana'i Mauga LB - LV,Kana'i Mauga,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+David Mayo LB - WAS,David Mayo,LB,WAS,@DEN,FA,,,,,,,,,,,,,,,,,0.0
+Zach McCloud LB,Zach McCloud,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Marcelino McCrary-Ball LB - NYJ,Marcelino,McCrary,Ball,@DAL,FA,,,,,,,,,,,,,,,,,0.0
+Isaiah McDuffie LB - GB,Isaiah McDuffie,LB,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Cameron McGrone LB - IND,Cameron McGrone,LB,IND,@HOU,FA,,,,,,,,,,,,,,,,,0.0
+Raekwon McMillan LB - NE IR,Raekwon McMillan,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Ventrell Miller LB - JAX IR,Ventrell Miller,LB,JAX,KC,FA,,,,,,,,,,,,,,,,,0.0
+Von Miller LB - BUF PUP,Von Miller,LB,BUF,LV,FA,,,,,,,,,,,,,,,,,0.0
+Jeremiah Moon LB - BAL,Jeremiah Moon,LB,BAL,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Arron Mosby LB - GB,Arron Mosby,LB,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Chad Muma LB - JAX,Chad Muma,LB,JAX,KC,FA,,,,,,,,,,,,,,,,,0.0
+Calvin Munson LB - NE,Calvin Munson,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Tanner Muse LB - LAC,Tanner Muse,LB,LAC,@TEN,FA,,,,,,,,,,,,,,,,,0.0
+Hamsah Nasirildeen LB - NYJ IR,Hamsah Nasirildeen,LB,NYJ,@DAL,FA,,,,,,,,,,,,,,,,,0.0
+Anthony Nelson LB - TB,Anthony Nelson,LB,TB,CHI,FA,,,,,,,,,,,,,,,,,0.0
+Adetokunbo Ogundeji LB - ATL IR,Adetokunbo Ogundeji,LB,ATL,GB,FA,,,,,,,,,,,,,,,,,0.0
+DeMarvion Overshown LB - DAL IR,DeMarvion Overshown,LB,DAL,NYJ,FA,,,,,,,,,,,,,,,,,0.0
+Owen Pappoe LB - ARI,Owen Pappoe,LB,ARI,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Ronnie Perkins LB - DEN,Ronnie Perkins,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Del'Shawn Phillips LB - BAL,Del'Shawn Phillips,LB,BAL,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Jacob Phillips LB - CLE IR,Jacob Phillips,LB,CLE,@PIT,FA,,,,,,,,,,,,,,,,,0.0
+Jaelan Phillips LB - MIA O View News,Jaelan Phillips,LB,MIA,@NE,Magic Eulers,,,,,,,,,,,,,,,,,0.0
+Anthony Pittman LB - DET,Anthony Pittman,LB,DET,SEA,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Reggie Ragland LB Q,Reggie Ragland LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Hamilcar Rashed Jr. LB,Hamilcar Rashed Jr.,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Haason Reddick LB - PHI,Haason Reddick,LB,PHI,MIN,Bad Wildcats Hunschat,,,,,,,,,,,,,,,,,0.0
+Malik Reed LB - LV,Malik Reed,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Troy Reeder LB - LA,Troy Reeder,LB,LA,SF,FA,,,,,,,,,,,,,,,,,0.0
+Jon Rhattigan LB - SEA,Jon Rhattigan,LB,SEA,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Duke Riley LB - MIA,Duke Riley,LB,MIA,@NE,FA,,,,,,,,,,,,,,,,,0.0
+Curtis Robinson LB - SF,Curtis Robinson,LB,SF,@LA,FA,,,,,,,,,,,,,,,,,0.0
+Mark Robinson LB - PIT,Mark Robinson,LB,PIT,CLE,FA,,,,,,,,,,,,,,,,,0.0
+Quincy Roche LB,Quincy Roche,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Josh Ross LB - BAL,Josh Ross,LB,BAL,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Chris Rumph II LB - LAC,Chris Rumph II,LB,LAC,@TEN,FA,,,,,,,,,,,,,,,,,0.0
+Chapelle Russell LB - PIT IR,Chapelle Russell,LB,PIT,CLE,FA,,,,,,,,,,,,,,,,,0.0
+J.J. Russell LB - TB,J.J. Russell,LB,TB,CHI,FA,,,,,,,,,,,,,,,,,0.0
+Drew Sanders LB - DEN,Drew Sanders,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Myjai Sanders LB - ARI IR,Myjai Sanders,LB,ARI,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Nephi Sewell LB - NO,Nephi Sewell,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Ty Shelby LB - LAC,Ty Shelby,LB,LAC,@TEN,FA,,,,,,,,,,,,,,,,,0.0
+Ryan Smenda Jr. LB Q,Ryan Smenda Jr. LB,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Brandon Smith LB,Brandon Smith,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Elerson G. Smith LB,Elerson G. Smith,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jaylon Smith LB - NO,Jaylon Smith,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Nolan Smith LB - PHI,Nolan Smith,LB,PHI,MIN,FA,,,,,,,,,,,,,,,,,0.0
+Charles Snowden LB,Charles Snowden,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Baylon Spector LB - BUF IR,Baylon Spector,LB,BUF,LV,FA,,,,,,,,,,,,,,,,,0.0
+Justin Strnad LB - DEN,Justin Strnad,LB,DEN,WAS,FA,,,,,,,,,,,,,,,,,0.0
+Grant Stuard LB - IND,Grant Stuard,LB,IND,@HOU,FA,,,,,,,,,,,,,,,,,0.0
+Ty Summers LB - NO,Ty Summers,LB,NO,@CAR,FA,,,,,,,,,,,,,,,,,0.0
+Chazz Surratt LB - NYJ,Chazz Surratt,LB,NYJ,@DAL,FA,,,,,,,,,,,,,,,,,0.0
+Davion Taylor LB - ARI,Davion Taylor,LB,ARI,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Keir Thomas LB - LA,Keir Thomas,LB,LA,SF,FA,,,,,,,,,,,,,,,,,0.0
+Channing Tindall LB - MIA,Channing Tindall,LB,MIA,@NE,FA,,,,,,,,,,,,,,,,,0.0
+Derrek Tuszka LB,Derrek Tuszka,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Josh Uche LB - NE,Josh Uche,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Luiji Vilain LB - MIN,Luiji Vilain,LB,MIN,@PHI,FA,,,,,,,,,,,,,,,,,0.0
+Mykal Walker LB - LV,Mykal Walker,LB,LV,@BUF,FA,,,,,,,,,,,,,,,,,0.0
+Garret Wallow LB - HOU,Garret Wallow,LB,HOU,IND,FA,,,,,,,,,,,,,,,,,0.0
+Kristian Welch LB - GB,Kristian Welch,LB,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Drew White LB - WAS PUP,Drew White,LB,WAS,@DEN,FA,,,,,,,,,,,,,,,,,0.0
+Benton Whitley LB - MIN,Benton Whitley,LB,MIN,@PHI,FA,,,,,,,,,,,,,,,,,0.0
+Ray Wilborn LB,Ray Wilborn,LB,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Eric Wilson LB - GB,Eric Wilson,LB,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Mack Wilson LB - NE,Mack Wilson,LB,NE,MIA,FA,,,,,,,,,,,,,,,,,0.0
+Josh Woods LB - ARI O View News,Josh Woods,LB,ARI,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Chandler Wooten LB - CAR,Chandler Wooten,LB,CAR,NO,FA,,,,,,,,,,,,,,,,,0.0
+Byron Young LB - LA,Byron Young,LB,LA,SF,FA,,,,,,,,,,,,,,,,,0.0

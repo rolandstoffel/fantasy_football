@@ -1,0 +1,117 @@
+Player,Name,Position,Team,Opp,Manager,Passing_Comp,Passing_Yds,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Rec,Receiving_Yds,Receiving_TD,Return_Yds,Return_TD,Misc_FumTD,Misc_2PT,Fumble_Lost,Fumble_Fum,Fantasy_Points
+Tua Tagovailoa QB - MIA,Tua Tagovailoa,QB,MIA,@LAC,Alta Villa Cardinals,28.0,466.0,3.0,1.0,5.0,,,,,,,,,1.0,2.0,98.6
+Mac Jones QB - NE,Mac Jones,QB,NE,PHI,FA,35.0,316.0,3.0,1.0,15.0,,,,,,,,,,,91.6
+Matthew Stafford QB - LA,Matthew Stafford,QB,LA,@SEA,Magic Eulers,24.0,334.0,,,11.0,,,,,,,,,,,69.6
+Kirk Cousins QB - MIN,Kirk Cousins,QB,MIN,TB,FlyRamsFly,33.0,344.0,2.0,1.0,7.0,,,,,,,,,2.0,2.0,66.8
+Derek Carr QB - NO Q View News,Derek Carr,QB,NO,TEN,FA,23.0,305.0,1.0,1.0,4.0,,,,,,,,,,,64.3
+Justin Herbert QB - LAC,Justin Herbert,QB,LAC,MIA,Bad Wildcats Hunschat,23.0,229.0,1.0,,17.0,1.0,,,,,,,,,,61.3
+Anthony Richardson QB - IND View News,Anthony Richardson,QB,IND,JAX,Slay,24.0,223.0,1.0,1.0,40.0,1.0,,,,,,,,,,60.3
+Jordan Love QB - GB,Jordan Love,QB,GB,@CHI,GLADIATORS of NORSCHT,15.0,245.0,3.0,,12.0,,,,,,,,,,1.0,59.9
+Patrick Mahomes QB - KC,Patrick Mahomes,QB,KC,DET,St Quintin Heidschnucken,21.0,226.0,2.0,1.0,45.0,,,,,,,,,,,58.6
+Russell Wilson QB - DEN,Russell Wilson,QB,DEN,LV,Washington Fantasy Team,27.0,177.0,2.0,,1.0,,,,,,,,,,,56.9
+Jared Goff QB - DET,Jared Goff,QB,DET,@KC,Wbn Beasts,22.0,253.0,1.0,,-1.0,,,,,,,,,,,56.1
+Trevor Lawrence QB - JAX,Trevor Lawrence,QB,JAX,@IND,Boppard Raiders,24.0,241.0,2.0,1.0,21.0,,,,,,,,,,1.0,55.3
+Baker Mayfield QB - TB,Baker Mayfield,QB,TB,@MIN,Slay,21.0,173.0,2.0,,11.0,,,,,,,,,,,52.5
+Deshaun Watson QB - CLE Q View News,Deshaun Watson,QB,CLE,CIN,Boppard Raiders,16.0,154.0,1.0,1.0,45.0,1.0,,,,,,,1.0,,1.0,49.4
+Kenny Pickett QB - PIT,Kenny Pickett,QB,PIT,SF,FA,31.0,232.0,1.0,2.0,4.0,,,,,,,,,,,49.0
+Justin Fields QB - CHI,Justin Fields,QB,CHI,GB,Wbn Beasts,24.0,216.0,1.0,1.0,59.0,,,,,,,,,1.0,1.0,48.4
+Jimmy Garoppolo QB - LV Q View News,Jimmy Garoppolo,QB,LV,@DEN,FA,20.0,200.0,2.0,1.0,11.0,,,,,,,,,,1.0,48.2
+C.J. Stroud QB - HOU,C.J. Stroud,QB,HOU,@BAL,GLADIATORS of NORSCHT,28.0,242.0,,,20.0,,1.0,,,,,,,1.0,1.0,48.2
+Brock Purdy QB - SF,Brock Purdy,QB,SF,@PIT,St Quintin Heidschnucken,19.0,220.0,2.0,,20.0,,,,,,,,,1.0,2.0,48.0
+Jalen Hurts QB - PHI,Jalen Hurts,QB,PHI,@NE,dirty birds,22.0,170.0,1.0,,37.0,,,,,,,,,1.0,1.0,43.4
+Josh Allen QB - BUF,Josh Allen,QB,BUF,@NYJ,FlyRamsFly,29.0,236.0,1.0,3.0,36.0,,,,,,,,,1.0,2.0,38.8
+Sam Howell QB - WAS,Sam Howell,QB,WAS,ARI,Boppard Raiders,19.0,202.0,1.0,1.0,11.0,1.0,,,,,,,,1.0,1.0,38.4
+Geno Smith QB - SEA,Geno Smith,QB,SEA,LA,Koblenz 87ers,16.0,112.0,1.0,,6.0,,,,,,,,,,,34.4
+Desmond Ridder QB - ATL,Desmond Ridder,QB,ATL,CAR,FA,15.0,115.0,1.0,,-1.0,,1.0,-6.0,,,,,,,1.0,32.7
+Bryce Young QB - CAR,Bryce Young,QB,CAR,@ATL,FA,20.0,146.0,1.0,2.0,17.0,,,,,,,,,,1.0,32.0
+Dak Prescott QB - DAL,Dak Prescott,QB,DAL,@NYG,Koblenz 87ers,13.0,143.0,,,6.0,,,,,,,,,,,28.5
+Lamar Jackson QB - BAL,Lamar Jackson,QB,BAL,HOU,Washington Fantasy Team,17.0,169.0,,1.0,38.0,,,,,,,,,1.0,2.0,23.5
+Joe Burrow QB - CIN View News,Joe Burrow,QB,CIN,@CLE,Magic Eulers,14.0,82.0,,,-1.0,,,,,,,,,,,22.0
+Daniel Jones QB - NYG,Daniel Jones,QB,NYG,DAL,dirty birds,15.0,104.0,,2.0,43.0,,,,,,,,,,2.0,22.0
+Ryan Tannehill QB - TEN,Ryan Tannehill,QB,TEN,@NO,FA,16.0,198.0,,3.0,5.0,,,,,,,,,,,18.8
+Joshua Dobbs QB - ARI,Joshua Dobbs,QB,ARI,@WAS,FA,21.0,132.0,,,-3.0,,,,,,,,,2.0,3.0,15.6
+Tyrod Taylor QB - NYG,Tyrod Taylor,QB,NYG,DAL,FA,2.0,6.0,,,,,,,,,,,,,,2.6
+Holton Ahlers QB,Holton Ahlers,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Brandon Allen QB - SF,Brandon Allen,QB,SF,@PIT,FA,,,,,,,,,,,,,,,,0.0
+Kyle Allen QB - BUF,Kyle Allen,QB,BUF,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Tyson Bagent QB - CHI,Tyson Bagent,QB,CHI,GB,FA,,,,,,,,,,,,,,,,0.0
+Matt Barkley QB Q,Matt Barkley QB,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+C.J. Beathard QB - JAX,C.J. Beathard,QB,JAX,@IND,FA,,,,,,,,,,,,,,,,0.0
+Stetson Bennett QB - LA NFI-R,Stetson Bennett,QB,LA,@SEA,FA,,,,,,,,,,,,,,,,0.0
+James Blackman QB,James Blackman,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+David Blough QB - DET,David Blough,QB,DET,@KC,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Ian Book QB,Ian Book,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tim Boyle QB - NYJ,Tim Boyle,QB,NYJ,BUF,FA,,,,,,,,,,,,,,,,0.0
+Teddy Bridgewater QB - DET,Teddy Bridgewater,QB,DET,@KC,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Jacoby Brissett QB - WAS,Jacoby Brissett,QB,WAS,ARI,FA,,,,,,,,,,,,,,,,0.0
+Anthony Brown QB,Anthony Brown,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Shane Buechele QB - BUF,Shane Buechele,QB,BUF,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Sean Clifford QB - GB,Sean Clifford,QB,GB,@CHI,W (Oct 4),,,,,,,,,,,,,,,1.0,0.0
+Matt Corral QB,Matt Corral,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Malik Cunningham QB - NE,Malik Cunningham,QB,NE,PHI,FA,,,,,,,,,,,,,,,,0.0
+Tim Demorat QB,Tim Demorat,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tommy DeVito QB - NYG,Tommy DeVito,QB,NYG,DAL,FA,,,,,,,,,,,,,,,,0.0
+Ben DiNucci QB - DEN,Ben DiNucci,QB,DEN,LV,FA,,,,,,,,,,,,,,,,0.0
+Jeff Driskel QB - ARI,Jeff Driskel,QB,ARI,@WAS,FA,,,,,,,,,,,,,,,,0.0
+Max Duggan QB - LAC,Max Duggan,QB,LAC,MIA,FA,,,,,,,,,,,,,,,,0.0
+Jacob Eason QB,Jacob Eason,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Sam Ehlinger QB - IND Q View News,Sam Ehlinger,QB,IND,JAX,FA,,,,,,,,,,,,,,,,0.0
+Danny Etling QB,Danny Etling,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Nick Foles QB,Nick Foles,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jake Fromm QB - WAS,Jake Fromm,QB,WAS,ARI,FA,,,,,,,,,,,,,,,,0.0
+Blaine Gabbert QB - KC,Blaine Gabbert,QB,KC,DET,FA,,,,,,,,,,,,,,,,0.0
+Chase Garbers QB,Chase Garbers,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Will Grier QB - NE,Will Grier,QB,NE,PHI,FA,,,,,,,,,,,,,,,,0.0
+Jarrett Guarantano QB,Jarrett Guarantano,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jake Haener QB - NO SUS,Jake Haener,QB,NO,TEN,FA,,,,,,,,,,,,,,,,0.0
+Jaren Hall QB - MIN Q View News,Jaren Hall,QB,MIN,TB,FA,,,,,,,,,,,,,,,,0.0
+Taylor Heinicke QB - ATL,Taylor Heinicke,QB,ATL,CAR,FA,,,,,,,,,,,,,,,,0.0
+Hendon Hooker QB - DET NFI-R,Hendon Hooker,QB,DET,@KC,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Brian Hoyer QB - LV,Brian Hoyer,QB,LV,@DEN,FA,,,,,,,,,,,,,,,,0.0
+Tyler Huntley QB - BAL,Tyler Huntley,QB,BAL,HOU,FA,,,,,,,,,,,,,,,,0.0
+Josh Johnson QB - BAL,Josh Johnson,QB,BAL,HOU,FA,,,,,,,,,,,,,,,,0.0
+Colin Kaepernick QB,Colin Kaepernick,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Case Keenum QB - HOU,Case Keenum,QB,HOU,@BAL,FA,,,,,,,,,,,,,,,,0.0
+Trey Lance QB - DAL,Trey Lance,QB,DAL,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Will Levis QB - TEN,Will Levis,QB,TEN,@NO,FA,,,,,,,,,,,,,,,,0.0
+Marcus Mariota QB - PHI,Marcus Mariota,QB,PHI,@NE,FA,,,,,,,,,,,,,,,,0.0
+Adrian Martinez QB,Adrian Martinez,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Colt McCoy QB,Colt McCoy,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tanner McKee QB - PHI,Tanner McKee,QB,PHI,@NE,FA,,,,,,,,,,,,,,,,0.0
+Trace McSorley QB,Trace McSorley,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Davis Mills QB - HOU,Davis Mills,QB,HOU,@BAL,FA,,,,,,,,,,,,,,,,0.0
+Gardner Minshew QB - IND View News,Gardner Minshew,QB,IND,JAX,FA,,,,,,,,,,,,,,,,0.0
+Kellen Mond QB,Kellen Mond,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tanner Morgan QB,Tanner Morgan,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Nick Mullens QB - MIN,Nick Mullens,QB,MIN,TB,FA,,,,,,,,,,,,,,,,0.0
+Kyler Murray QB - ARI PUP,Kyler Murray,QB,ARI,@WAS,FA,,,,,,,,,,,,,,,,0.0
+Aidan O'Connell QB - LV,Aidan O'Connell,QB,LV,@DEN,FA,,,,,,,,,,,,,,,,0.0
+Chris Oladokun QB - KC,Chris Oladokun,QB,KC,DET,FA,,,,,,,,,,,,,,,,0.0
+Bryce Perkins QB,Bryce Perkins,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+E.J. Perry QB,E.J. Perry,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Nathan Peterman QB - CHI,Nathan Peterman,QB,CHI,GB,FA,,,,,,,,,,,,,,,,0.0
+Aaron Rodgers QB - NYJ IR,Aaron Rodgers,QB,NYJ,BUF,FA,,,,,,,,,,,,,,,,0.0
+Nathan Rourke QB - JAX,Nathan Rourke,QB,JAX,@IND,FA,,,,,,,,,,,,,,,,0.0
+Mason Rudolph QB - PIT,Mason Rudolph,QB,PIT,SF,FA,,,,,,,,,,,,,,,,0.0
+Cooper Rush QB - DAL,Cooper Rush,QB,DAL,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Brett Rypien QB - LA,Brett Rypien,QB,LA,@SEA,FA,,,,,,,,,,,,,,,,0.0
+Trevor Siemian QB - NYJ,Trevor Siemian,QB,NYJ,BUF,FA,,,,,,,,,,,,,,,,0.0
+Easton Stick QB - LAC,Easton Stick,QB,LAC,MIA,FA,,,,,,,,,,,,,,,,0.0
+Jarrett Stidham QB - DEN,Jarrett Stidham,QB,DEN,LV,FA,,,,,,,,,,,,,,,,0.0
+Chris Streveler QB Q,Chris Streveler QB,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Skylar Thompson QB - MIA,Skylar Thompson,QB,MIA,@LAC,FA,,,,,,,,,,,,,,,,0.0
+Dorian Thompson-Robinson QB - CLE,Dorian,Thompson,Robinson,CIN,FA,,,,,,,,,,,,,,,,0.0
+Kyle Trask QB - TB,Kyle Trask,QB,TB,@MIN,FA,,,,,,,,,,,,,,,,0.0
+Mitchell Trubisky QB - PIT,Mitchell Trubisky,QB,PIT,SF,FA,,,,,,,,,,,,,,,,0.0
+Clayton Tune QB - ARI,Clayton Tune,QB,ARI,@WAS,FA,,,,,,,,,,,,,,,,0.0
+PJ Walker QB - CLE,PJ Walker,QB,CLE,CIN,FA,,,,,,,,,,,,,,,,0.0
+Carson Wentz QB,Carson Wentz,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Mike White QB - MIA,Mike White,QB,MIA,@LAC,FA,,,,,,,,,,,,,,,,0.0
+Malik Willis QB - TEN,Malik Willis,QB,TEN,@NO,FA,,,,,,,,,,,,,,,,0.0
+Dresser Winn QB,Dresser Winn,QB,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jameis Winston QB - NO,Jameis Winston,QB,NO,TEN,FA,,,,,,,,,,,,,,,,0.0
+John Wolford QB - TB,John Wolford,QB,TB,@MIN,FA,,,,,,,,,,,,,,,,0.0
+Logan Woodside QB - ATL,Logan Woodside,QB,ATL,CAR,FA,,,,,,,,,,,,,,,,0.0
+Bailey Zappe QB - NE,Bailey Zappe,QB,NE,PHI,FA,,,,,,,,,,,,,,,,0.0
+Jake Browning QB - CIN,Jake Browning,QB,CIN,@CLE,FA,,,,,-1.0,,,,,,,,,,,-0.2
+Sam Darnold QB - SF,Sam Darnold,QB,SF,@PIT,FA,,,,,-2.0,,,,,,,,,,,-0.4

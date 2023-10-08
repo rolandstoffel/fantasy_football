@@ -1,0 +1,192 @@
+Player,Name,Position,Team,Opp,Manager,Passing_Comp,Passing_Yds,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Rec,Receiving_Yds,Receiving_TD,Return_Yds,Return_TD,Misc_FumTD,Misc_2PT,Fumble_Lost,Fumble_Fum,Fantasy_Points
+T.J. Hockenson TE - MIN,T.J. Hockenson,TE,MIN,@PHI,Wbn Beasts,,,,,,,7.0,66.0,2.0,,,,,,,25.6
+Taysom Hill TE - NO,Taysom Hill,TE,NO,@CAR,St Quintin Heidschnucken,1.0,8.0,,,75.0,,1.0,-1.0,,,,,,,,17.7
+Hunter Henry TE - NE,Hunter Henry,TE,NE,MIA,FlyRamsFly,,,,,,,6.0,52.0,1.0,,,,,,,17.2
+Mark Andrews TE - BAL,Mark Andrews,TE,BAL,@CIN,Slay,,,,,,,5.0,45.0,1.0,,,,,,,15.5
+Darren Waller TE - NYG,Darren Waller,TE,NYG,@ARI,Alta Villa Cardinals,,,,,,,6.0,76.0,,,,,,,,13.6
+Travis Kelce TE - KC,Travis Kelce,TE,KC,@JAX,dirty birds,,,,,,,4.0,26.0,1.0,,,,,,,12.6
+Sam LaPorta TE - DET View News,Sam LaPorta,TE,DET,SEA,Alta Villa Cardinals,,,,,,,5.0,63.0,,,,,,,,11.8
+Evan Engram TE - JAX,Evan Engram,TE,JAX,KC,Washington Fantasy Team,,,,,,,6.0,57.0,,,,,,,,11.7
+Zach Ertz TE - ARI,Zach Ertz,TE,ARI,NYG,Bad Wildcats Hunschat,,,,,,,6.0,56.0,,,,,,,,11.6
+Kylen Granson TE - IND,Kylen Granson,TE,IND,@HOU,FA,,,,,,,3.0,16.0,1.0,,,,,,,11.6
+Logan Thomas TE - WAS View News,Logan Thomas,TE,WAS,@DEN,FA,,,,,,,2.0,22.0,1.0,,,,,,,10.2
+Jake Ferguson TE - DAL,Jake Ferguson,TE,DAL,NYJ,FA,,,,,,,3.0,11.0,1.0,,,,,,,10.1
+Cade Otton TE - TB,Cade Otton,TE,TB,CHI,FA,,,,,,,6.0,41.0,,,,,,,,10.1
+Tyler Conklin TE - NYJ,Tyler Conklin,TE,NYJ,@DAL,FA,,,,,,,5.0,50.0,,,,,,,,10.0
+Dawson Knox TE - BUF,Dawson Knox,TE,BUF,LV,FA,,,,,,,3.0,10.0,1.0,,,,,,,10.0
+Noah Fant TE - SEA,Noah Fant,TE,SEA,@DET,FA,,,,,,,4.0,56.0,,,,,,,,9.6
+Dalton Kincaid TE - BUF,Dalton Kincaid,TE,BUF,LV,Magic Eulers,,,,,,,5.0,43.0,,,,,,,,9.3
+Jonnu Smith TE - ATL,Jonnu Smith,TE,ATL,GB,FA,,,,,,,4.0,47.0,,,,,,,,8.7
+Mike Gesicki TE - NE,Mike Gesicki,TE,NE,MIA,FA,,,,,,,5.0,33.0,,,,,,,,8.3
+Dallas Goedert TE - PHI,Dallas Goedert,TE,PHI,MIN,Koblenz 87ers,,,,,,,6.0,22.0,,,,,,,,8.2
+Cole Kmet TE - CHI,Cole Kmet,TE,CHI,@TB,FA,,,,,,,4.0,38.0,,,,,,,,7.8
+Gerald Everett TE - LAC View News,Gerald Everett,TE,LAC,@TEN,FA,,,,,,,3.0,47.0,,,,,,,,7.7
+John Bates TE - WAS,John Bates,TE,WAS,@DEN,FA,,,,,,,3.0,46.0,,,,,,,,7.6
+Chigoziem Okonkwo TE - TEN,Chigoziem Okonkwo,TE,TEN,LAC,FA,,,,,,,4.0,35.0,,,,,,,,7.5
+Dalton Schultz TE - HOU,Dalton Schultz,TE,HOU,IND,FA,,,,,,,4.0,34.0,,,,,,,,7.4
+Will Mallory TE - IND,Will Mallory,TE,IND,@HOU,FA,,,,,,,2.0,49.0,,,,,,,,6.9
+Noah Gray TE - KC View News,Noah Gray,TE,KC,@JAX,FA,,,,,,,3.0,38.0,,,,,,,,6.8
+Will Dissly TE - SEA Q View News,Will Dissly,TE,SEA,@DET,FA,,,,,,,3.0,35.0,,,,,,,,6.5
+Durham Smythe TE - MIA,Durham Smythe,TE,MIA,@NE,FA,,,,,,,3.0,23.0,,,,,,,,6.3
+Colby Parkinson TE - SEA,Colby Parkinson,TE,SEA,@DET,FA,,,,,,,2.0,41.0,,,,,,,,6.1
+George Kittle TE - SF,George Kittle,TE,SF,@LA,Magic Eulers,,,,,,,3.0,30.0,,,,,,,,6.0
+Pat Freiermuth TE - PIT,Pat Freiermuth,TE,PIT,CLE,St Quintin Heidschnucken,,,,,,,1.0,2.0,,,,,,,,5.2
+Trey McBride TE - ARI,Trey McBride,TE,ARI,NYG,FA,,,,,,,2.0,32.0,,,,,,,,5.2
+Hayden Hurst TE - CAR,Hayden Hurst,TE,CAR,NO,FA,,,,,,,3.0,20.0,,,,,,,,5.0
+Brevin Jordan TE - HOU,Brevin Jordan,TE,HOU,IND,FA,,,,,,,2.0,27.0,,,,,,,,4.7
+Luke Musgrave TE - GB Q,Luke Musgrave,TE,GB,@ATL,GLADIATORS of NORSCHT,,,,,,,2.0,25.0,,,,,,,,4.5
+Kyle Pitts TE - ATL,Kyle Pitts,TE,ATL,GB,FlyRamsFly,,,,,,,2.0,15.0,,,,,,,,4.5
+Tyler Higbee TE - LA Q View News,Tyler Higbee,TE,LA,SF,Boppard Raiders,,,,,,,3.0,12.0,,,,,,,,4.2
+Cole Turner TE - WAS,Cole Turner,TE,WAS,@DEN,FA,,,,,,,2.0,21.0,,,,,,,,4.1
+Austin Hooper TE - LV,Austin Hooper,TE,LV,@BUF,FA,,,,,,,2.0,20.0,,,,,,,,4.0
+Foster Moreau TE - NO Q View News,Foster Moreau,TE,NO,@CAR,FA,,,,,,,2.0,20.0,,,,,,,,4.0
+Stone Smartt TE - LAC,Stone Smartt,TE,LAC,@TEN,FA,,,,,,,1.0,24.0,,,,,,,,3.4
+Juwan Johnson TE - NO,Juwan Johnson,TE,NO,@CAR,Wbn Beasts,,,,,,,2.0,13.0,,,,,,,,3.3
+Josh Oliver TE - MIN,Josh Oliver,TE,MIN,@PHI,FA,,,,,,,2.0,13.0,,,,,,,,3.3
+Irv Smith TE - CIN O View News,Irv Smith,TE,CIN,BAL,FA,,,,,,,2.0,10.0,,,,,,,,3.0
+Mo Alie-Cox TE - IND,Mo,Alie,Cox,@HOU,FA,,,,,,,1.0,15.0,,,,,,,,2.5
+Josiah Deguara TE - GB,Josiah Deguara,TE,GB,@ATL,W (Oct 4),,,,,,,2.0,5.0,,,,,,,,2.5
+Isaiah Likely TE - BAL,Isaiah Likely,TE,BAL,@CIN,FA,,,,,,,1.0,8.0,,,,,,,,1.8
+Donald Parham TE - LAC,Donald Parham,TE,LAC,@TEN,FA,,,,,,,1.0,7.0,,,,,,,,1.7
+Reggie Gilliam TE - BUF,Reggie Gilliam,TE,BUF,LV,FA,,,,,,,1.0,3.0,,,,,,,,1.3
+Michael Mayer TE - LV,Michael Mayer,TE,LV,@BUF,FA,,,,,,,1.0,2.0,,,,,,,,1.2
+Daniel Bellinger TE - NYG Q View News,Daniel Bellinger,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.5
+Tommy Tremble TE - CAR,Tommy Tremble,TE,CAR,NO,FA,,,,,,,,,,,,,,,,0.5
+Charlie Woerner TE - SF,Charlie Woerner,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.5
+Andrew Beck TE - HOU,Andrew Beck,TE,HOU,IND,FA,,,,,2.0,,,,,,,,,,,0.4
+Nate Adkins TE - DEN,Nate Adkins,TE,DEN,WAS,FA,,,,,,,,,,,,,,,,0.0
+Austin Allen TE,Austin Allen,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Chase Allen TE Q,Chase Allen TE,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Davis Allen TE - LA,Davis Allen,TE,LA,SF,FA,,,,,,,,,,,,,,,,0.0
+J.J. Arcega-Whiteside TE,J.J.,Arcega,Whiteside,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dan Arnold TE,Dan Arnold,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Devin Asiasi TE - CLE,Devin Asiasi,TE,CLE,@PIT,FA,,,,,,,,,,,,,,,,0.0
+Blake Bell TE - KC,Blake Bell,TE,KC,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Kendall Blanton TE,Kendall Blanton,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Nick Bowers TE - MIA,Nick Bowers,TE,MIA,@NE,FA,,,,,,,,,,,,,,,,0.0
+Pharaoh Brown TE - NE,Pharaoh Brown,TE,NE,MIA,FA,,,,,,,,,,,,,,,,0.0
+Harrison Bryant TE - CLE,Harrison Bryant,TE,CLE,@PIT,FA,,,,,,,,,,,,,,,,0.0
+Matt Bushman TE - KC,Matt Bushman,TE,KC,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Lawrence Cager TE - NYG,Lawrence Cager,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.0
+Grant Calcaterra TE - PHI,Grant Calcaterra,TE,PHI,MIN,FA,,,,,,,,,,,,,,,,0.0
+Stephen Carlson TE - CHI,Stephen Carlson,TE,CHI,@TB,FA,,,,,,,,,,,,,,,,0.0
+Tanner Conner TE - MIA,Tanner Conner,TE,MIA,@NE,FA,,,,,,,,,,,,,,,,0.0
+Dominique Dafney TE Q,Dominique Dafney TE,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Zach Davidson TE - BUF IR,Zach Davidson,TE,BUF,LV,FA,,,,,,,,,,,,,,,,0.0
+Tyler Davis TE - GB IR,Tyler Davis,TE,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Brandon Dillon TE - WAS IR,Brandon Dillon,TE,WAS,@DEN,FA,,,,,,,,,,,,,,,,0.0
+Greg Dulcich TE - DEN IR,Greg Dulcich,TE,DEN,WAS,FA,,,,,,,,,,,,,,,,0.0
+Payne Durham TE - TB,Payne Durham,TE,TB,CHI,FA,,,,,,,,,,,,,,,,0.0
+Ross Dwelley TE - SF,Ross Dwelley,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.0
+Ben Ellefson TE,Ben Ellefson,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Michael Ezeike TE,Michael Ezeike,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Princeton Fant TE - DAL,Princeton Fant,TE,DAL,NYJ,FA,,,,,,,,,,,,,,,,0.0
+Luke Farrell TE - JAX,Luke Farrell,TE,JAX,KC,FA,,,,,,,,,,,,,,,,0.0
+Anthony Firkser TE,Anthony Firkser,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tucker Fisk TE - ATL,Tucker Fisk,TE,ATL,GB,FA,,,,,,,,,,,,,,,,0.0
+John FitzPatrick TE - ATL,John FitzPatrick,TE,ATL,GB,FA,,,,,,,,,,,,,,,,0.0
+Miller Forristall TE - LA,Miller Forristall,TE,LA,SF,FA,,,,,,,,,,,,,,,,0.0
+Jody Fortson TE - KC IR,Jody Fortson,TE,KC,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Cole Fotheringham TE - LV,Cole Fotheringham,TE,LV,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Feleipe Franks TE - ATL IR,Feleipe Franks,TE,ATL,GB,FA,,,,,,,,,,,,,,,,0.0
+Troy Fumagalli TE,Troy Fumagalli,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Izaiah Gathings TE,Izaiah Gathings,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Zach Gentry TE - CIN,Zach Gentry,TE,CIN,BAL,FA,,,,,,,,,,,,,,,,0.0
+Noah Gindorff TE,Noah Gindorff,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jimmy Graham TE - NO,Jimmy Graham,TE,NO,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Thomas Greaney TE,Thomas Greaney,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Seth Green TE,Seth Green,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Nick Guggemos TE,Nick Guggemos,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jacob Harris TE - JAX,Jacob Harris,TE,JAX,KC,FA,,,,,,,,,,,,,,,,0.0
+Griffin Hebert TE,Griffin Hebert,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Parker Hesse TE - ATL,Parker Hesse,TE,ATL,GB,FA,,,,,,,,,,,,,,,,0.0
+Connor Heyward TE - PIT,Connor Heyward,TE,PIT,CLE,FA,,,,,,,,,,,,,,,,0.0
+Julian Hill TE - MIA,Julian Hill,TE,MIA,@NE,FA,,,,,,,,,,,,,,,,0.0
+Curtis Hodges TE - WAS,Curtis Hodges,TE,WAS,@DEN,FA,,,,,,,,,,,,,,,,0.0
+Joel Honigford TE,Joel Honigford,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Brycen Hopkins TE - LA,Brycen Hopkins,TE,LA,SF,FA,,,,,,,,,,,,,,,,0.0
+Jesper Horsted TE - LV,Jesper Horsted,TE,LV,@BUF,FA,,,,,,,,,,,,,,,,0.0
+O.J. Howard TE,O.J. Howard,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tanner Hudson TE - CIN,Tanner Hudson,TE,CIN,BAL,FA,,,,,,,,,,,,,,,,0.0
+Tommy Hudson TE - NO,Tommy Hudson,TE,NO,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Tyree Jackson TE - NYG,Tyree Jackson,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.0
+Jesse James TE,Jesse James,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+E.J. Jenkins TE,E.J. Jenkins,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Ryan Jones TE - NYG,Ryan Jones,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.0
+Nikola Kalinic TE - LA,Nikola Kalinic,TE,LA,SF,FA,,,,,,,,,,,,,,,,0.0
+Hunter Kampmoyer TE - LAC,Hunter Kampmoyer,TE,LAC,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Dalton Keene TE - HOU,Dalton Keene,TE,HOU,IND,FA,,,,,,,,,,,,,,,,0.0
+Ko Kieft TE - TB,Ko Kieft,TE,TB,CHI,FA,,,,,,,,,,,,,,,,0.0
+Charlie Kolar TE - BAL,Charlie Kolar,TE,BAL,@CIN,FA,,,,,,,,,,,,,,,,0.0
+Tucker Kraft TE - GB View News,Tucker Kraft,TE,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Tyler Kroft TE - MIA View News,Tyler Kroft,TE,MIA,@NE,FA,,,,,,,,,,,,,,,,0.0
+Lucas Krull TE - DEN,Lucas Krull,TE,DEN,WAS,FA,,,,,,,,,,,,,,,,0.0
+Zack Kuntz TE - NYJ,Zack Kuntz,TE,NYJ,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Cameron Latu TE - SF IR,Cameron Latu,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.0
+Hunter Long TE - LA IR,Hunter Long,TE,LA,SF,FA,,,,,,,,,,,,,,,,0.0
+Tyler Mabry TE - SEA,Tyler Mabry,TE,SEA,@DET,FA,,,,,,,,,,,,,,,,0.0
+Alize Mack TE Q,Alize Mack TE,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Chris Manhertz TE - DEN,Chris Manhertz,TE,DEN,WAS,FA,,,,,,,,,,,,,,,,0.0
+Ben Mason TE,Ben Mason,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Camren McDonald TE,Camren McDonald,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Sean McKeon TE - DAL,Sean McKeon,TE,DAL,NYJ,FA,,,,,,,,,,,,,,,,0.0
+Tre' McKitty TE - LAC,Tre' McKitty,TE,LAC,@TEN,FA,,,,,,,,,,,,,,,,0.0
+James Mitchell TE - DET,James Mitchell,TE,DET,SEA,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Zaire Mitchell-Paden TE - CLE,Zaire,Mitchell,Paden,@PIT,FA,,,,,,,,,,,,,,,,0.0
+Quintin Morris TE - BUF,Quintin Morris,TE,BUF,LV,FA,,,,,,,,,,,,,,,,0.0
+Johnny Mundt TE - MIN,Johnny Mundt,TE,MIN,@PHI,FA,,,,,,,,,,,,,,,,0.0
+Jordan Murray TE - IND,Jordan Murray,TE,IND,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Nick Muse TE - MIN,Nick Muse,TE,MIN,@PHI,FA,,,,,,,,,,,,,,,,0.0
+Chris Myarick TE - NYG IR,Chris Myarick,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.0
+Thomas Odukoya TE - TEN,Thomas Odukoya,TE,TEN,LAC,FA,,,,,,,,,,,,,,,,0.0
+Andrew Ogletree TE - IND,Andrew Ogletree,TE,IND,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Albert Okwuegbunam TE - PHI,Albert Okwuegbunam,TE,PHI,MIN,FA,,,,,,,,,,,,,,,,0.0
+Josh Pederson TE - JAX,Josh Pederson,TE,JAX,KC,FA,,,,,,,,,,,,,,,,0.0
+Gerrit Prince TE - KC,Gerrit Prince,TE,KC,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Teagan Quitoriano TE - HOU,Teagan Quitoriano,TE,HOU,IND,FA,,,,,,,,,,,,,,,,0.0
+Kevin Rader TE - TEN,Kevin Rader,TE,TEN,LAC,FA,,,,,,,,,,,,,,,,0.0
+John Raine TE,John Raine,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Sammis Reyes TE,Sammis Reyes,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Giovanni Ricci TE - CAR,Giovanni Ricci,TE,CAR,NO,FA,,,,,,,,,,,,,,,,0.0
+Justin Rigg TE,Justin Rigg,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jeremy Ruckert TE - NYJ,Jeremy Ruckert,TE,NYJ,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Brady Russell TE - SEA,Brady Russell,TE,SEA,@DET,FA,,,,,,,,,,,,,,,,0.0
+Drew Sample TE - CIN,Drew Sample,TE,CIN,BAL,FA,,,,,,,,,,,,,,,,0.0
+Eric Saubert TE Q,Eric Saubert TE,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Mason Schreck TE,Mason Schreck,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Bernhard Seikovits TE - ARI,Bernhard Seikovits,TE,ARI,NYG,FA,,,,,,,,,,,,,,,,0.0
+John Shenker TE - LV,John Shenker,TE,LV,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Ben Sims TE - GB,Ben Sims,TE,GB,@ATL,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Christian Sims TE,Christian Sims,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kaden Smith TE - WAS IR,Kaden Smith,TE,WAS,@DEN,FA,,,,,,,,,,,,,,,,0.0
+Matt Sokol TE - NE,Matt Sokol,TE,NE,MIA,FA,,,,,,,,,,,,,,,,0.0
+Jack Stoll TE - PHI,Jack Stoll,TE,PHI,MIN,FA,,,,,,,,,,,,,,,,0.0
+Brenton Strange TE - JAX,Brenton Strange,TE,JAX,KC,FA,,,,,,,,,,,,,,,,0.0
+Stephen Sullivan TE - CAR IR,Stephen Sullivan,TE,CAR,NO,FA,,,,,,,,,,,,,,,,0.0
+Tommy Sweeney TE - NYG NFI-R,Tommy Sweeney,TE,NYG,@ARI,FA,,,,,,,,,,,,,,,,0.0
+Tanner Taula TE - TB,Tanner Taula,TE,TB,CHI,FA,,,,,,,,,,,,,,,,0.0
+Leonard Taylor TE - JAX IR,Leonard Taylor,TE,JAX,KC,FA,,,,,,,,,,,,,,,,0.0
+Hunter Thedford TE,Hunter Thedford,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Ian Thomas TE - CAR,Ian Thomas,TE,CAR,NO,FA,,,,,,,,,,,,,,,,0.0
+Noah Togiai TE,Noah Togiai,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Eric Tomlinson TE,Eric Tomlinson,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jake Tonges TE - SF,Jake Tonges,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.0
+Robert Tonyan TE - CHI,Robert Tonyan,TE,CHI,@TB,FA,,,,,,,,,,,,,,,,0.0
+Christian Trahan TE,Christian Trahan,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Adam Trautman TE - DEN,Adam Trautman,TE,DEN,WAS,FA,,,,,,,,,,,,,,,,0.0
+Nick Vannett TE - LAC,Nick Vannett,TE,LAC,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Travis Vokolek TE - BAL,Travis Vokolek,TE,BAL,@CIN,FA,,,,,,,,,,,,,,,,0.0
+Darnell Washington TE - PIT View News,Darnell Washington,TE,PIT,CLE,FA,,,,,,,,,,,,,,,,0.0
+Scotty Washington TE,Scotty Washington,TE,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Leroy Watson TE - SF,Leroy Watson,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.0
+Trevon Wesco TE - TEN,Trevon Wesco,TE,TEN,LAC,FA,,,,,,,,,,,,,,,,0.0
+Blake Whiteheart TE - ARI,Blake Whiteheart,TE,ARI,NYG,FA,,,,,,,,,,,,,,,,0.0
+Josh Whyle TE - TEN,Josh Whyle,TE,TEN,LAC,FA,,,,,,,,,,,,,,,,0.0
+Brayden Willis TE - SF,Brayden Willis,TE,SF,@LA,FA,,,,,,,,,,,,,,,,0.0
+Joel Wilson TE - BUF,Joel Wilson,TE,BUF,LV,FA,,,,,,,,,,,,,,,,0.0
+Jelani Woods TE - IND IR,Jelani Woods,TE,IND,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Brock Wright TE - DET,Brock Wright,TE,DET,SEA,W (Oct 4),,,,,,,,,,,,,,,,0.0
+Kenny Yeboah TE - NYJ IR,Kenny Yeboah,TE,NYJ,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Shane Zylstra TE - DET IR,Shane Zylstra,TE,DET,SEA,W (Oct 4),,,,,,,,,,,,,,,,0.0
+David Njoku TE - CLE,David Njoku,TE,CLE,@PIT,Slay,,,,,,,4.0,48.0,,,,,,1.0,1.0,-0.2
+David Wells TE - TB,David Wells,TE,TB,CHI,FA,,,,,,,2.0,-10.0,,,,,,,1.0,-2.0

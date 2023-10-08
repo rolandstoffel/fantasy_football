@@ -1,0 +1,380 @@
+Player,Name,Position,Team,Opp,Manager,Tackles_Tot,Tackles_Ast,Tackles_Sck,Tackles_TFL,Turnover_Int,Turnover_Frc Fum,Turnover_Fum Rec,Score_Int TD,Score_FumTD,Score_Blk TD,Score_Saf,Score_Def 2pt Ret,Other_Blk,Other_PDef,Other_QB Hit,Return_Int Yds,Fantasy_Points
+Myles Garrett DL - CLE,Myles Garrett,DL,CLE,TEN,St Quintin Heidschnucken,4.0,1.0,3.5,3.0,,1.0,,,,,,,,,5.0,,54.5
+Jarran Reed DL - SEA,Jarran Reed,DL,SEA,CAR,FA,5.0,3.0,2.0,2.0,,,,,,,,,,1.0,3.0,,39.5
+Aidan Hutchinson DL - DET View News,Aidan Hutchinson,DL,DET,ATL,Washington Fantasy Team,3.0,1.0,2.0,1.0,,1.0,1.0,,,,,,,2.0,1.0,,37.5
+Leonard Floyd DL - BUF,Leonard Floyd,DL,BUF,@WAS,Alta Villa Cardinals,2.0,1.0,2.0,2.0,,,,,,,,,,,3.0,,34.5
+Trey Hendrickson DL - CIN,Trey Hendrickson,DL,CIN,LA,Washington Fantasy Team,2.0,,2.0,2.0,,,,,,,,,,,2.0,,32.0
+A.J. Epenesa DL - BUF,A.J. Epenesa,DL,BUF,@WAS,GLADIATORS of NORSCHT,1.0,,1.0,1.0,1.0,,,1.0,,,,,,1.0,1.0,32.0,27.4
+Brian Burns DL - CAR,Brian Burns,DL,CAR,@SEA,Magic Eulers,3.0,1.0,1.0,3.0,,,,,,,,,,,3.0,,21.5
+Aaron Donald DL - LA,Aaron Donald,DL,LA,@CIN,Washington Fantasy Team,5.0,2.0,1.0,2.0,,,,,,,,,,,2.0,,20.0
+Ed Oliver DL - BUF,Ed Oliver,DL,BUF,@WAS,FA,2.0,2.0,1.5,2.0,,,,,,,,,,,2.0,,20.0
+Demarcus Lawrence DL - DAL,Demarcus Lawrence,DL,DAL,@ARI,FlyRamsFly,4.0,1.0,1.0,2.0,,,,,,,,,,,2.0,,18.5
+DaQuan Jones DL - BUF,DaQuan Jones,DL,BUF,@WAS,FA,1.0,4.0,1.5,1.0,,,,,,,,,,,2.0,,18.0
+Sam Hubbard DL - CIN,Sam Hubbard,DL,CIN,LA,FlyRamsFly,5.0,1.0,1.0,1.0,,,,,,,,,,,2.0,,17.5
+Denico Autry DL - TEN Q View News,Denico Autry,DL,TEN,@CLE,Magic Eulers,2.0,,1.0,1.0,,1.0,,,,,,,,,2.0,,17.0
+Sebastian Joseph-Day DL - LAC,Sebastian,Joseph,Day,@MIN,Slay,2.0,2.0,1.0,2.0,,,,,,,,,,,2.0,,17.0
+Emmanuel Ogbah DL - MIA,Emmanuel Ogbah,DL,MIA,DEN,FA,1.0,2.0,1.0,1.0,1.0,,,,,,,,,1.0,1.0,5.0,17.0
+Kwity Paye DL - IND,Kwity Paye,DL,IND,@BAL,Boppard Raiders,3.0,,1.0,1.0,,,1.0,,,,,,,,1.0,,16.0
+Charles Harris DL - DET,Charles Harris,DL,DET,ATL,Boppard Raiders,3.0,,1.0,2.0,,,,,,,,,,,1.0,,15.0
+Nick Bosa DL - SF,Nick Bosa,DL,SF,NYG,Magic Eulers,2.0,1.0,1.0,1.0,,,,,,,,,,,2.0,,14.5
+Alim McNeill DL - DET,Alim McNeill,DL,DET,ATL,W (Oct 4),2.0,1.0,1.0,1.0,,,,,,,,,,,2.0,,14.5
+Maxx Crosby DL - LV Q View News,Maxx Crosby,DL,LV,PIT,Bad Wildcats Hunschat,1.0,2.0,1.0,1.0,,,,,,,,,,,2.0,,14.0
+Javon Hargrave DL - SF,Javon Hargrave,DL,SF,NYG,Wbn Beasts,1.0,2.0,1.0,1.0,,,,,,,,,,,2.0,,14.0
+B.J. Hill DL - CIN,B.J. Hill,DL,CIN,LA,FA,2.0,,1.0,1.0,,,,,,,,,,,2.0,,14.0
+Kenny Clark DL - GB,Kenny Clark,DL,GB,NO,W (Oct 4),3.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,13.5
+Alex Wright DL - CLE,Alex Wright,DL,CLE,TEN,FA,3.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,13.5
+Michael Danna DL - KC,Michael Danna,DL,KC,CHI,FA,3.0,,1.0,1.0,,,,,,,,,,,1.0,,13.0
+Christian Barmore DL - NE Q,Christian Barmore,DL,NE,@NYJ,FA,1.0,1.0,1.0,1.0,,,,,,,,,,1.0,1.0,,12.5
+Jalen Carter DL - PHI,Jalen Carter,DL,PHI,@TB,FA,1.0,1.0,0.5,,,2.0,,,,,,,,,1.0,,12.5
+Yetur Gross-Matos DL - CAR,Yetur,Gross,Matos,@SEA,FA,2.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,12.5
+D.J. Reader DL - CIN,D.J. Reader,DL,CIN,LA,FA,2.0,,1.0,1.0,,,,,,,,,,,1.0,,12.0
+Greg Rousseau DL - BUF,Greg Rousseau,DL,BUF,@WAS,Alta Villa Cardinals,2.0,,1.0,1.0,,,,,,,,,,,1.0,,12.0
+Leonard Williams DL - NYG,Leonard Williams,DL,NYG,@SF,FA,4.0,2.0,0.5,,,,,,,,,,,,2.0,,12.0
+Benito Jones DL - DET,Benito Jones,DL,DET,ATL,W (Oct 4),1.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,11.5
+Marlon Tuipulotu DL - PHI,Marlon Tuipulotu,DL,PHI,@TB,FA,1.0,1.0,1.0,1.0,,,,,,,,,,,1.0,,11.5
+Keeanu Benton DL - PIT,Keeanu Benton,DL,PIT,@LV,FA,1.0,,1.0,1.0,,,,,,,,,,,1.0,,11.0
+Grady Jarrett DL - ATL,Grady Jarrett,DL,ATL,@DET,dirty birds,2.0,2.0,,1.0,,,,,,,,,,,3.0,,11.0
+Chris Jones DL - KC,Chris Jones,DL,KC,CHI,FlyRamsFly,1.0,,1.0,1.0,,,,,,,,,,,1.0,,11.0
+Taven Bryan DL - IND,Taven Bryan,DL,IND,@BAL,FA,1.0,1.0,1.0,,,1.0,,,,,,,,,,,10.5
+Will Anderson Jr. DL - HOU,Will Anderson Jr.,DL,HOU,@JAX,St Quintin Heidschnucken,3.0,1.0,,,,,,,,,,,1.0,,2.0,,9.5
+Zach Allen DL - DEN,Zach Allen,DL,DEN,@MIA,Slay,3.0,4.0,,2.0,,,,,,,,,,,,,9.0
+Christian Wilkins DL - MIA,Christian Wilkins,DL,MIA,DEN,Slay,1.0,2.0,,,,,,,,,,,,1.0,3.0,,9.0
+Ogbo Okoronkwo DL - CLE,Ogbo Okoronkwo,DL,CLE,TEN,dirty birds,1.0,1.0,0.5,1.0,,,,,,,,,,,1.0,,8.5
+Derrick Brown DL - CAR,Derrick Brown,DL,CAR,@SEA,Wbn Beasts,3.0,2.0,,,,,,,,,,,,,2.0,,8.0
+Fletcher Cox DL - PHI,Fletcher Cox,DL,PHI,@TB,FA,,2.0,0.5,,,,,,,,,,,,2.0,,8.0
+John Jenkins DL - LV,John Jenkins,DL,LV,PIT,FA,2.0,4.0,,1.0,,,,,,,,,,,1.0,,8.0
+David Onyemata DL - ATL,David Onyemata,DL,ATL,@DET,FA,1.0,2.0,,1.0,,,,,,,,,,,2.0,,8.0
+Quinnen Williams DL - NYJ,Quinnen Williams,DL,NYJ,NE,Bad Wildcats Hunschat,1.0,,,,,,,,,,,,,1.0,3.0,,8.0
+DJ Davidson DL - NYG Q,DJ Davidson,DL,NYG,@SF,FA,,1.0,0.5,,,,,,,,,,,1.0,1.0,,6.5
+George Karlaftis DL - KC,George Karlaftis,DL,KC,CHI,FA,1.0,1.0,0.5,,,,,,,,,,,,1.0,,6.5
+Jonathan Harris DL - DEN,Jonathan Harris,DL,DEN,@MIA,FA,3.0,2.0,,1.0,,,,,,,,,,,,,6.0
+Maurice Hurst DL - CLE,Maurice Hurst,DL,CLE,TEN,FA,2.0,,,1.0,,,,,,,,,,,1.0,,6.0
+Bilal Nichols DL - LV,Bilal Nichols,DL,LV,PIT,FA,3.0,2.0,,1.0,,,,,,,,,,,,,6.0
+Daron Payne DL - WAS,Daron Payne,DL,WAS,BUF,Bad Wildcats Hunschat,3.0,,,1.0,,,,,,,,,,1.0,,,6.0
+Grover Stewart DL - IND,Grover Stewart,DL,IND,@BAL,dirty birds,3.0,2.0,,,,,,,,,,,,,1.0,,6.0
+Brent Urban DL - BAL,Brent Urban,DL,BAL,IND,FA,2.0,,,1.0,,,,,,,,,,,1.0,,6.0
+Greg Gaines DL - TB,Greg Gaines,DL,TB,PHI,FA,,3.0,,,,,,,,,,,,,2.0,,5.5
+Dexter Lawrence DL - NYG,Dexter Lawrence,DL,NYG,@SF,FlyRamsFly,4.0,3.0,,,,,,,,,,,,,,,5.5
+Yannick Ngakoue DL - CHI,Yannick Ngakoue,DL,CHI,@KC,Wbn Beasts,1.0,1.0,,,,,,,,,,,,,2.0,,5.5
+Kobie Turner DL - LA,Kobie Turner,DL,LA,@CIN,FA,,1.0,0.5,,,,,,,,,,,,1.0,,5.5
+Gervon Dexter Sr. DL - CHI,Gervon Dexter Sr.,DL,CHI,@KC,FA,3.0,,,,,,,,,,,,,,1.0,,5.0
+Michael Hoecht DL - LA,Michael Hoecht,DL,LA,@CIN,FA,1.0,4.0,,1.0,,,,,,,,,,,,,5.0
+Teair Tart DL - TEN Q View News,Teair Tart,DL,TEN,@CLE,FA,3.0,,,1.0,,,,,,,,,,,,,5.0
+Nick Williams DL - LAC,Nick Williams,DL,LAC,@MIN,FA,2.0,2.0,,1.0,,,,,,,,,,,,,5.0
+Chase Young DL - WAS,Chase Young,DL,WAS,BUF,Alta Villa Cardinals,3.0,,,1.0,,,,,,,,,,,,,5.0
+Maliek Collins DL - HOU,Maliek Collins,DL,HOU,@JAX,FA,,1.0,,,,,,,,,,,,,2.0,,4.5
+Dominique Robinson DL - CHI,Dominique Robinson,DL,CHI,@KC,FA,2.0,1.0,,1.0,,,,,,,,,,,,,4.5
+Zach Sieler DL - MIA,Zach Sieler,DL,MIA,DEN,Boppard Raiders,,1.0,,,,,,,,,,,,,2.0,,4.5
+D.J. Wonnum DL - MIN,D.J. Wonnum,DL,MIN,LAC,FA,,1.0,,,,,,,,,,,,,2.0,,4.5
+Calais Campbell DL - ATL,Calais Campbell,DL,ATL,@DET,GLADIATORS of NORSCHT,1.0,2.0,,,,,,,,,,,,,1.0,,4.0
+Mario Edwards DL - SEA,Mario Edwards,DL,SEA,CAR,FA,,,,,,,,,,,,,,,2.0,,4.0
+Daniel Ekuale DL - NE IR,Daniel Ekuale,DL,NE,@NYJ,FA,1.0,,,,,1.0,,,,,,,,,,,4.0
+Foley Fatukasi DL - JAX Q View News,Foley Fatukasi,DL,JAX,HOU,FA,2.0,,,1.0,,,,,,,,,,,,,4.0
+Jerry Hughes DL - HOU,Jerry Hughes,DL,HOU,@JAX,FA,2.0,,,1.0,,,,,,,,,,,,,4.0
+Malcolm Koonce DL - LV Q,Malcolm Koonce,DL,LV,PIT,FA,2.0,,,,,,,,,,,,,,1.0,,4.0
+Shaq Lawson DL - BUF,Shaq Lawson,DL,BUF,@WAS,FA,,,,,,,,,,,,,,,2.0,,4.0
+Harrison Phillips DL - MIN,Harrison Phillips,DL,MIN,LAC,FA,2.0,,,,,,,,,,,,,,1.0,,4.0
+A'Shawn Robinson DL - NYG,A'Shawn Robinson,DL,NYG,@SF,FA,3.0,2.0,,,,,,,,,,,,,,,4.0
+Khalen Saunders DL - NO,Khalen Saunders,DL,NO,@GB,FA,,4.0,,,,,,,,,,,,,1.0,,4.0
+Ben Stille DL - ARI,Ben Stille,DL,ARI,DAL,FA,4.0,,,,,,,,,,,,,,,,4.0
+Solomon Thomas DL - NYJ,Solomon Thomas,DL,NYJ,NE,FA,2.0,,,1.0,,,,,,,,,,,,,4.0
+Isaiah Foskey DL - NO,Isaiah Foskey,DL,NO,@GB,FA,3.0,1.0,,,,,,,,,,,,,,,3.5
+John Franklin-Myers DL - NYJ,John,Franklin,Myers,NE,FA,1.0,1.0,,,,,,,,,,,,,1.0,,3.5
+Justin Jones DL - CHI,Justin Jones,DL,CHI,@KC,FA,1.0,1.0,,,,,,,,,,,,,1.0,,3.5
+Jeremiah Ledbetter DL - JAX,Jeremiah Ledbetter,DL,JAX,HOU,FA,3.0,1.0,,,,,,,,,,,,,,,3.5
+Jonathan Ledbetter DL - ARI O View News,Jonathan Ledbetter,DL,ARI,DAL,FA,3.0,1.0,,,,,,,,,,,,,,,3.5
+Osa Odighizuwa DL - DAL,Osa Odighizuwa,DL,DAL,@ARI,FA,1.0,1.0,,1.0,,,,,,,,,,,,,3.5
+Malcolm Roach DL - NO,Malcolm Roach,DL,NO,@GB,FA,1.0,1.0,,1.0,,,,,,,,,,,,,3.5
+Roy Robertson-Harris DL - JAX,Roy,Robertson,Harris,HOU,FA,2.0,3.0,,,,,,,,,,,,,,,3.5
+Josh Sweat DL - PHI,Josh Sweat,DL,PHI,@TB,GLADIATORS of NORSCHT,3.0,1.0,,,,,,,,,,,,,,,3.5
+Jerry Tillery DL - LV,Jerry Tillery,DL,LV,PIT,FA,1.0,1.0,,,,,,,,,,,,,1.0,,3.5
+DeShawn Williams DL - CAR,DeShawn Williams,DL,CAR,@SEA,FA,3.0,1.0,,,,,,,,,,,,,,,3.5
+Bryan Bresee DL - NO,Bryan Bresee,DL,NO,@GB,FA,2.0,,,,,,,,,,,,,1.0,,,3.0
+Adam Gotsis DL - JAX,Adam Gotsis,DL,JAX,HOU,FA,1.0,,,1.0,,,,,,,,,,,,,3.0
+Carl Granderson DL - NO,Carl Granderson,DL,NO,@GB,dirty birds,2.0,2.0,,,,,,,,,,,,,,,3.0
+Jonathan Greenard DL - HOU,Jonathan Greenard,DL,HOU,@JAX,FA,3.0,,,,,,,,,,,,,,,,3.0
+Scott Matlock DL - LAC,Scott Matlock,DL,LAC,@MIN,FA,1.0,,,,,,,,,,,,,,1.0,,3.0
+Jordan Phillips DL - BUF,Jordan Phillips,DL,BUF,@WAS,FA,,,,,,,,,,,,,,1.0,1.0,,3.0
+Montez Sweat DL - WAS,Montez Sweat,DL,WAS,BUF,Washington Fantasy Team,1.0,,,,,,,,,,,,,,1.0,,3.0
+Felix Anudike-Uzomah DL - KC,Felix,Anudike,Uzomah,CHI,FA,2.0,1.0,,,,,,,,,,,,,,,2.5
+Jordan Davis DL - PHI,Jordan Davis,DL,PHI,@TB,FA,2.0,1.0,,,,,,,,,,,,,,,2.5
+Zach Harrison DL - ATL,Zach Harrison,DL,ATL,@DET,FA,1.0,3.0,,,,,,,,,,,,,,,2.5
+Jermaine Johnson II DL - NYJ,Jermaine Johnson II,DL,NYJ,NE,FA,2.0,1.0,,,,,,,,,,,,,,,2.5
+Jonah Williams DL - LA,Jonah Williams,DL,LA,@CIN,FA,1.0,1.0,,,,,,,,,,,,1.0,,,2.5
+Arik Armstead DL - SF,Arik Armstead,DL,SF,NYG,FA,,,,,,,,,,,,,,,1.0,,2.0
+Andrew Billings DL - CHI,Andrew Billings,DL,CHI,@KC,FA,1.0,2.0,,,,,,,,,,,,,,,2.0
+Zachary Carter DL - CIN,Zachary Carter,DL,CIN,LA,FA,,,,,,,,,,,,,,,1.0,,2.0
+Micheal Clemons DL - NYJ,Micheal Clemons,DL,NYJ,NE,FA,2.0,,,,,,,,,,,,,,,,2.0
+Raekwon Davis DL - MIA,Raekwon Davis,DL,MIA,DEN,FA,,,,,,,,,,,,,,,1.0,,2.0
+Brandon Graham DL - PHI,Brandon Graham,DL,PHI,@TB,GLADIATORS of NORSCHT,2.0,,,,,,,,,,,,,,,,2.0
+Logan Hall DL - TB,Logan Hall,DL,TB,PHI,FA,2.0,,,,,,,,,,,,,,,,2.0
+Johnathan Hankins DL - DAL,Johnathan Hankins,DL,DAL,@ARI,FA,,4.0,,,,,,,,,,,,,,,2.0
+Malik Herring DL - KC,Malik Herring,DL,KC,CHI,FA,1.0,2.0,,,,,,,,,,,,,,,2.0
+Kurt Hinish DL - HOU,Kurt Hinish,DL,HOU,@JAX,FA,1.0,2.0,,,,,,,,,,,,,,,2.0
+Kingsley Jonathan DL - BUF,Kingsley Jonathan,DL,BUF,@WAS,FA,,,,,,,,,,,,,,,1.0,,2.0
+D.J. Jones DL - DEN,D.J. Jones,DL,DEN,@MIA,FA,2.0,,,,,,,,,,,,,,,,2.0
+Travis Jones DL - BAL,Travis Jones,DL,BAL,IND,FA,1.0,2.0,,,,,,,,,,,,,,,2.0
+DeMarvin Leal DL - PIT,DeMarvin Leal,DL,PIT,@LV,FA,2.0,,,,,,,,,,,,,,,,2.0
+Derrick Nnadi DL - KC,Derrick Nnadi,DL,KC,CHI,FA,1.0,2.0,,,,,,,,,,,,,,,2.0
+Romeo Okwara DL - DET,Romeo Okwara,DL,DET,ATL,W (Oct 4),,2.0,,,,,,,,,,,,1.0,,,2.0
+Jeffery Simmons DL - TEN,Jeffery Simmons,DL,TEN,@CLE,Koblenz 87ers,2.0,,,,,,,,,,,,,,,,2.0
+DeMarcus Walker DL - CHI,DeMarcus Walker,DL,CHI,@KC,FA,,,,,,,,,,,,,,,1.0,,2.0
+Al Woods DL - NYJ,Al Woods,DL,NYJ,NE,FA,2.0,,,,,,,,,,,,,,,,2.0
+Byron Young DL - LV,Byron Young,DL,LV,PIT,FA,2.0,,,,,,,,,,,,,,,,2.0
+Cameron Young DL - SEA,Cameron Young,DL,SEA,CAR,FA,,,,,,,,,,,,,,,1.0,,2.0
+Montravius Adams DL - PIT,Montravius Adams,DL,PIT,@LV,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Jonathan Allen DL - WAS,Jonathan Allen,DL,WAS,BUF,Koblenz 87ers,,1.0,,,,,,,,,,,,1.0,,,1.5
+Jonathan Bullard DL - MIN,Jonathan Bullard,DL,MIN,LAC,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Jaleel Johnson DL - TEN,Jaleel Johnson,DL,TEN,@CLE,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Rakeem Nunez-Roches DL - NYG,Rakeem,Nunez,Roches,@SF,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Dayo Odeyingbo DL - IND,Dayo Odeyingbo,DL,IND,@BAL,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Zacch Pickens DL - CHI,Zacch Pickens,DL,CHI,@KC,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Brandon Pili DL - MIA,Brandon Pili,DL,MIA,DEN,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Sam Roberts DL - NE,Sam Roberts,DL,NE,@NYJ,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Tedarrell Slaton DL - GB,Tedarrell Slaton,DL,GB,NO,W (Oct 4),1.0,1.0,,,,,,,,,,,,,,,1.5
+Kevin Strong DL - ARI,Kevin Strong,DL,ARI,DAL,FA,,3.0,,,,,,,,,,,,,,,1.5
+Vita Vea DL - TB Q View News,Vita Vea,DL,TB,PHI,FA,,3.0,,,,,,,,,,,,,,,1.5
+Milton Williams DL - PHI,Milton Williams,DL,PHI,@TB,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Deatrich Wise DL - NE,Deatrich Wise,DL,NE,@NYJ,FA,1.0,1.0,,,,,,,,,,,,,,,1.5
+Devonte Wyatt DL - GB,Devonte Wyatt,DL,GB,NO,W (Oct 4),1.0,1.0,,,,,,,,,,,,,,,1.5
+Dorance Armstrong DL - DAL,Dorance Armstrong,DL,DAL,@ARI,FA,,2.0,,,,,,,,,,,,,,,1.0
+Karl Brooks DL - GB,Karl Brooks,DL,GB,NO,W (Oct 4),,,,,,,,,,,,,,1.0,,,1.0
+Clelin Ferrell DL - SF,Clelin Ferrell,DL,SF,NYG,FA,1.0,,,,,,,,,,,,,,,,1.0
+Ta'Quon Graham DL - ATL,Ta'Quon Graham,DL,ATL,@DET,FA,,2.0,,,,,,,,,,,,,,,1.0
+Rasheem Green DL - CHI,Rasheem Green,DL,CHI,@KC,FA,1.0,,,,,,,,,,,,,,,,1.0
+Timmy Horne DL - ATL,Timmy Horne,DL,ATL,@DET,FA,,2.0,,,,,,,,,,,,,,,1.0
+Bryce Huff DL - NYJ,Bryce Huff,DL,NYJ,NE,FA,1.0,,,,,,,,,,,,,,,,1.0
+Tyquan Lewis DL - IND,Tyquan Lewis,DL,IND,@BAL,FA,1.0,,,,,,,,,,,,,,,,1.0
+John Ridgeway DL - WAS,John Ridgeway,DL,WAS,BUF,FA,1.0,,,,,,,,,,,,,,,,1.0
+Za'Darius Smith DL - CLE,Za'Darius Smith,DL,CLE,TEN,FA,,2.0,,,,,,,,,,,,,,,1.0
+Shy Tuttle DL - CAR,Shy Tuttle,DL,CAR,@SEA,FA,,2.0,,,,,,,,,,,,,,,1.0
+Jihad Ward DL - NYG,Jihad Ward,DL,NYG,@SF,FA,1.0,,,,,,,,,,,,,,,,1.0
+Isaiah Buggs DL - DET,Isaiah Buggs,DL,DET,ATL,W (Oct 4),,1.0,,,,,,,,,,,,,,,0.5
+Adam Butler DL - LV,Adam Butler,DL,LV,PIT,FA,,1.0,,,,,,,,,,,,,,,0.5
+Leki Fotu DL - ARI,Leki Fotu,DL,ARI,DAL,FA,,1.0,,,,,,,,,,,,,,,0.5
+Davon Godchaux DL - NE Q View News,Davon Godchaux,DL,NE,@NYJ,Koblenz 87ers,,1.0,,,,,,,,,,,,,,,0.5
+Austin Johnson DL - LAC,Austin Johnson,DL,LAC,@MIN,FA,,1.0,,,,,,,,,,,,,,,0.5
+Dre'Mont Jones DL - SEA Q,Dre'Mont Jones,DL,SEA,CAR,Bad Wildcats Hunschat,,1.0,,,,,,,,,,,,,,,0.5
+Naquan Jones DL - TEN,Naquan Jones,DL,TEN,@CLE,FA,,1.0,,,,,,,,,,,,,,,0.5
+Patrick Jones II DL - MIN,Patrick Jones II,DL,MIN,LAC,FA,,1.0,,,,,,,,,,,,,,,0.5
+Carl Lawson DL - NYJ,Carl Lawson,DL,NYJ,NE,FA,,1.0,,,,,,,,,,,,,,,0.5
+Larrell Murchison DL - LA,Larrell Murchison,DL,LA,@CIN,FA,,1.0,,,,,,,,,,,,,,,0.5
+Larry Ogunjobi DL - PIT,Larry Ogunjobi,DL,PIT,@LV,FA,,1.0,,,,,,,,,,,,,,,0.5
+Kyle Peko DL - TEN,Kyle Peko,DL,TEN,@CLE,FA,,1.0,,,,,,,,,,,,,,,0.5
+Mike Purcell DL - DEN O View News,Mike Purcell,DL,DEN,@MIA,FA,,1.0,,,,,,,,,,,,,,,0.5
+Tim Settle DL - BUF,Tim Settle,DL,BUF,@WAS,FA,,1.0,,,,,,,,,,,,,,,0.5
+Nathan Shepherd DL - NO,Nathan Shepherd,DL,NO,@GB,FA,,1.0,,,,,,,,,,,,,,,0.5
+Mazi Smith DL - DAL,Mazi Smith,DL,DAL,@ARI,FA,,1.0,,,,,,,,,,,,,,,0.5
+Dalvin Tomlinson DL - CLE,Dalvin Tomlinson,DL,CLE,TEN,FA,,1.0,,,,,,,,,,,,,,,0.5
+Myles Adams DL - SEA,Myles Adams,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Adetomiwa Adebawore DL - IND,Adetomiwa Adebawore,DL,IND,@BAL,FA,,,,,,,,,,,,,,,,,0.0
+Jayson Ademilola DL,Jayson Ademilola,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+McTelvin Agim DL - IND,McTelvin Agim,DL,IND,@BAL,FA,,,,,,,,,,,,,,,,,0.0
+Junior Aho DL - MIN,Junior Aho,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Bradlee Anae DL - NYJ IR,Bradlee Anae,DL,NYJ,NE,FA,,,,,,,,,,,,,,,,,0.0
+Abdullah Anderson DL - WAS,Abdullah Anderson,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Henry Anderson DL - CAR IR,Henry Anderson,DL,CAR,@SEA,FA,,,,,,,,,,,,,,,,,0.0
+David Anenih DL,David Anenih,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Eli Ankou DL - BUF,Eli Ankou,DL,BUF,@WAS,FA,,,,,,,,,,,,,,,,,0.0
+Calvin Avery DL,Calvin Avery,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+David Bada DL - WAS IR,David Bada,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Eric Banks DL - ARI,Eric Banks,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Derek Barnett DL - PHI,Derek Barnett,DL,PHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Amare Barno DL - CAR,Amare Barno,DL,CAR,@SEA,FA,,,,,,,,,,,,,,,,,0.0
+Alex Barrett DL - SF,Alex Barrett,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Carlos Basham DL - NYG,Carlos Basham,DL,NYG,@SF,FA,,,,,,,,,,,,,,,,,0.0
+Travis Bell DL - CHI,Travis Bell,DL,CHI,@KC,FA,,,,,,,,,,,,,,,,,0.0
+Ross Blacklock DL - JAX,Ross Blacklock,DL,JAX,HOU,FA,,,,,,,,,,,,,,,,,0.0
+Angelo Blackson DL - JAX,Angelo Blackson,DL,JAX,HOU,FA,,,,,,,,,,,,,,,,,0.0
+Quinton Bohanna DL - DET,Quinton Bohanna,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Thomas Booker DL - PHI,Thomas Booker,DL,PHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Trey Botts DL,Trey Botts,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Will Bradley-King DL - WAS,Will,Bradley,King,BUF,FA,,,,,,,,,,,,,,,,,0.0
+C.J. Brewer DL - TB,C.J. Brewer,DL,TB,PHI,FA,,,,,,,,,,,,,,,,,0.0
+Josiah Bronson DL,Josiah Bronson,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Curtis Brooks DL - WAS IR,Curtis Brooks,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Cortez Broughton DL,Cortez Broughton,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Andrew Brown DL,Andrew Brown,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Bobby Brown III DL - LA,Bobby Brown III,DL,LA,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Earnest Brown IV DL - LA,Earnest Brown IV,DL,LA,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Shakel Brown DL - TEN IR,Shakel Brown,DL,TEN,@CLE,FA,,,,,,,,,,,,,,,,,0.0
+Austin Bryant DL - SF,Austin Bryant,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+LaTrell Bumphus DL - SEA IR,LaTrell Bumphus,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Matthew Butler DL - LV,Matthew Butler,DL,LV,PIT,FA,,,,,,,,,,,,,,,,,0.0
+Vernon Butler DL Q,Vernon Butler DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Kai Caesar DL,Kai Caesar,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jerron Cage DL,Jerron Cage,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jerrod Clark DL - LAC,Jerrod Clark,DL,LAC,@MIN,FA,,,,,,,,,,,,,,,,,0.0
+Keondre Coburn DL - KC,Keondre Coburn,DL,KC,CHI,FA,,,,,,,,,,,,,,,,,0.0
+L.J. Collier DL - ARI IR,L.J. Collier,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Robert Cooper DL,Robert Cooper,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Marquise Copeland DL - LA,Marquise Copeland,DL,LA,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Christian Covington DL - LAC,Christian Covington,DL,LAC,@MIN,FA,,,,,,,,,,,,,,,,,0.0
+Byron Cowart DL - MIA,Byron Cowart,DL,MIA,DEN,FA,,,,,,,,,,,,,,,,,0.0
+DJ Dale DL,DJ Dale,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jalen Dalton DL Q,Jalen Dalton DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Carl Davis DL - SEA,Carl Davis,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Carlos Davis DL,Carlos Davis,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Domenique Davis DL - CIN,Domenique Davis,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Kalia Davis DL - SF,Kalia Davis,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Sheldon Day DL - MIN,Sheldon Day,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Matt Dickerson DL - KC,Matt Dickerson,DL,KC,CHI,FA,,,,,,,,,,,,,,,,,0.0
+Michael Dogbe DL,Michael Dogbe,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Cory Durden DL - LA,Cory Durden,DL,LA,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Michael Dwumfour DL - HOU,Michael Dwumfour,DL,HOU,@JAX,FA,,,,,,,,,,,,,,,,,0.0
+Jordan Elliott DL - CLE,Jordan Elliott,DL,CLE,TEN,FA,,,,,,,,,,,,,,,,,0.0
+Noah Elliss DL Q,Noah Elliss DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Ikenna Enechukwu DL - ATL IR,Ikenna Enechukwu,DL,ATL,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Austin Faoliu DL - SEA PUP,Austin Faoliu,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Neil Farrell DL - KC,Neil Farrell,DL,KC,CHI,FA,,,,,,,,,,,,,,,,,0.0
+Breiden Fehoko DL - PIT,Breiden Fehoko,DL,PIT,@LV,FA,,,,,,,,,,,,,,,,,0.0
+Jonathan Ford DL - GB,Jonathan Ford,DL,GB,NO,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Poona Ford DL - BUF,Poona Ford,DL,BUF,@WAS,FA,,,,,,,,,,,,,,,,,0.0
+Dante Fowler Jr. DL - DAL,Dante Fowler Jr.,DL,DAL,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Neville Gallimore DL - DAL,Neville Gallimore,DL,DAL,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Elijah Garcia DL - DEN,Elijah Garcia,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Joe Gaziano DL - ATL,Joe Gaziano,DL,ATL,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Kevin Givens DL - SF,Kevin Givens,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Eddie Goldman DL EXE,Eddie Goldman DL,EXE,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Chauncey Golston DL - DAL,Chauncey Golston,DL,DAL,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Mike Greene DL - TB,Mike Greene,DL,TB,PHI,FA,,,,,,,,,,,,,,,,,0.0
+Randy Gregory DL - DEN,Randy Gregory,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Jeffrey Gunter DL - CIN,Jeffrey Gunter,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Lawrence Guy DL - NE,Lawrence Guy,DL,NE,@NYJ,FA,,,,,,,,,,,,,,,,,0.0
+DaVon Hamilton DL - JAX IR,DaVon Hamilton,DL,JAX,HOU,FA,,,,,,,,,,,,,,,,,0.0
+La'Darius Hamilton DL,La'Darius Hamilton,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Demone Harris DL - ATL,Demone Harris,DL,ATL,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Marquis Haynes DL - CAR IR,Marquis Haynes,DL,CAR,@SEA,FA,,,,,,,,,,,,,,,,,0.0
+Jack Heflin DL - NO,Jack Heflin,DL,NO,@GB,FA,,,,,,,,,,,,,,,,,0.0
+Matt Henningsen DL - DEN,Matt Henningsen,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Cameron Heyward DL - PIT IR,Cameron Heyward,DL,PIT,@LV,FA,,,,,,,,,,,,,,,,,0.0
+Trysten Hill DL,Trysten Hill,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jalyn Holmes DL - NYJ,Jalyn Holmes,DL,NYJ,NE,FA,,,,,,,,,,,,,,,,,0.0
+Phil Hoskins DL,Phil Hoskins,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Albert Huggins DL - ATL,Albert Huggins,DL,ATL,@DET,FA,,,,,,,,,,,,,,,,,0.0
+Kerry Hyder DL - SF,Kerry Hyder,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Siaki Ika DL - CLE,Siaki Ika,DL,CLE,TEN,FA,,,,,,,,,,,,,,,,,0.0
+Melvin Ingram DL,Melvin Ingram,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Bruce Irvin DL,Bruce Irvin,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Drake Jackson DL - SF,Drake Jackson,DL,SF,NYG,St Quintin Heidschnucken,,,,,,,,,,,,,,,,,0.0
+Jordan Jackson DL - DEN,Jordan Jackson,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Tarron Jackson DL - PHI,Tarron Jackson,DL,PHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Donovan Jeter DL,Donovan Jeter,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Eric Johnson DL - IND,Eric Johnson,DL,IND,@BAL,FA,,,,,,,,,,,,,,,,,0.0
+Raymond Johnson III DL - DET,Raymond Johnson III,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Chandler Jones DL - LV NFI-R View News,Chandler Jones,DL,LV,PIT,Wbn Beasts,,,,,,,,,,,,,,,,,0.0
+Manny Jones DL - NE,Manny Jones,DL,NE,@NYJ,FA,,,,,,,,,,,,,,,,,0.0
+Cameron Jordan DL - NO,Cameron Jordan,DL,NO,@GB,Alta Villa Cardinals,,,,,,,,,,,,,,,,,0.0
+Joshua Kaindoh DL,Joshua Kaindoh,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Calijah Kancey DL - TB O View News,Calijah Kancey,DL,TB,PHI,FA,,,,,,,,,,,,,,,,,0.0
+Khalid Kareem DL - CHI IR,Khalid Kareem,DL,CHI,@KC,FA,,,,,,,,,,,,,,,,,0.0
+Carlo Kemp DL,Carlo Kemp,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Javon Kinlaw DL - SF,Javon Kinlaw,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Tyler Lancaster DL - DEN,Tyler Lancaster,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Rashard Lawrence DL - MIA,Rashard Lawrence,DL,MIA,DEN,FA,,,,,,,,,,,,,,,,,0.0
+Matt Leo DL,Matt Leo,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Roy Lopez DL - ARI,Roy Lopez,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Dean Lowry DL - MIN,Dean Lowry,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+James Lynch DL - MIN IR,James Lynch,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Isaiah Mack DL,Isaiah Mack,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jonathan Marshall DL - PIT,Jonathan Marshall,DL,PIT,@LV,FA,,,,,,,,,,,,,,,,,0.0
+Brodric Martin DL - DET IA,Brodric Martin,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Phidarian Mathis DL - WAS IR,Phidarian Mathis,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Devonnsha Maxwell DL - CIN IR,Devonnsha Maxwell,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Marquan McCall DL Q,Marquan McCall DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Will McDonald IV DL - NYJ,Will McDonald IV,DL,NYJ,NE,FA,,,,,,,,,,,,,,,,,0.0
+T.Y. McGill DL - SF,T.Y. McGill,DL,SF,NYG,FA,,,,,,,,,,,,,,,,,0.0
+Takk McKinley DL,Takk McKinley,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Forrest Merrill DL Q,Forrest Merrill DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+DaMarcus Mitchell DL,DaMarcus Mitchell,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+David Moa DL,David Moa,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Henry Mondeaux DL Q,Henry Mondeaux DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Bryan Mone DL - SEA PUP,Bryan Mone,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Anthony Montalvo DL,Anthony Montalvo,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Antonio Moultrie DL,Antonio Moultrie,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Myles Murphy DL - CIN,Myles Murphy,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+PJ Mustipher DL - DEN,PJ Mustipher,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Haggai Ndubuisi DL - DEN O,Haggai Ndubuisi,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Rayshad Nichols DL - BAL,Rayshad Nichols,DL,BAL,IND,FA,,,,,,,,,,,,,,,,,0.0
+Pat O'Connor DL - TB,Pat O'Connor,DL,TB,PHI,FA,,,,,,,,,,,,,,,,,0.0
+Efe Obada DL - WAS IR,Efe Obada,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Adedayo Odeleye DL - HOU,Adedayo Odeleye,DL,HOU,@JAX,FA,,,,,,,,,,,,,,,,,0.0
+Moro Ojomo DL - PHI,Moro Ojomo,DL,PHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+BJ Ojulari DL - ARI,BJ Ojulari,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Basil Okoye DL - LAC,Basil Okoye,DL,LAC,@MIN,FA,,,,,,,,,,,,,,,,,0.0
+Sam Okuayinonu DL,Sam Okuayinonu,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Julian Okwara DL - DET IR,Julian Okwara,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Charles Omenihu DL - KC SUS,Charles Omenihu,DL,KC,CHI,FA,,,,,,,,,,,,,,,,,0.0
+Joshua Onujiogu DL - SEA IR,Joshua Onujiogu,DL,SEA,CAR,FA,,,,,,,,,,,,,,,,,0.0
+Levi Onwuzurike DL - DET,Levi Onwuzurike,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Joseph Ossai DL - CIN,Joseph Ossai,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Esezi Otomewo DL - JAX,Esezi Otomewo,DL,JAX,HOU,FA,,,,,,,,,,,,,,,,,0.0
+Joshua Paschal DL - DET IR,Joshua Paschal,DL,DET,ATL,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Aaron Patrick DL,Aaron Patrick,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jayden Peevy DL - TEN,Jayden Peevy,DL,TEN,@CLE,FA,,,,,,,,,,,,,,,,,0.0
+John Penisini DL Q,John Penisini DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Roderick Perry II DL,Roderick Perry II,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Tautala Pesefea DL Q,Tautala Pesefea DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jeremiah Pharms DL - NE,Jeremiah Pharms,DL,NE,@NYJ,FA,,,,,,,,,,,,,,,,,0.0
+Benning Potoa'e DL - WAS,Benning Potoa'e,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Willington Previlon DL - DAL,Willington Previlon,DL,DAL,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Sheldon Rankins DL - HOU,Sheldon Rankins,DL,HOU,@JAX,FA,,,,,,,,,,,,,,,,,0.0
+Hassan Ridgeway DL - HOU IR,Hassan Ridgeway,DL,HOU,@JAX,FA,,,,,,,,,,,,,,,,,0.0
+Jordon Riley DL - NYG,Jordon Riley,DL,NYG,@SF,FA,,,,,,,,,,,,,,,,,0.0
+Derek Rivers DL,Derek Rivers,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Alton Robinson DL,Alton Robinson,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Janarius Robinson DL - LV,Janarius Robinson,DL,LV,PIT,FA,,,,,,,,,,,,,,,,,0.0
+Jaquelin Roy DL - MIN,Jaquelin Roy,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Cameron Sample DL - CIN,Cameron Sample,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Caleb Sampson DL,Caleb Sampson,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Deadrin Senat DL - TB,Deadrin Senat,DL,TB,PHI,FA,,,,,,,,,,,,,,,,,0.0
+Danny Shelton DL,Danny Shelton,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Tyler Shelvin DL Q,Tyler Shelvin DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Nesta Jade Silvera DL - LV,Nesta Jade Silvera,DL,LV,PIT,FA,,,,,,,,,,,,,,,,,0.0
+Jacob Slade DL - ARI,Jacob Slade,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Chris Slayton DL - GB,Chris Slayton,DL,GB,NO,W (Oct 4),,,,,,,,,,,,,,,,,0.0
+Tanzel Smart DL,Tanzel Smart,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Chris Smith DL,Chris Smith,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jordan Smith DL,Jordan Smith,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Kobe Smith DL,Kobe Smith,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+T.J. Smith DL - MIN,T.J. Smith,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+James Smith-Williams DL - WAS,James,Smith,Williams,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Marquiss Spencer DL - NYJ,Marquiss Spencer,DL,NYJ,NE,FA,,,,,,,,,,,,,,,,,0.0
+Taylor Stallworth DL,Taylor Stallworth,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Dante Stills DL - ARI,Dante Stills,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Kentavius Street DL - PHI,Kentavius Street,DL,PHI,@TB,FA,,,,,,,,,,,,,,,,,0.0
+Ndamukong Suh DL,Ndamukong Suh,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jonah Tavai DL,Jonah Tavai,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Darrell Taylor DL - SEA,Darrell Taylor,DL,SEA,CAR,Koblenz 87ers,,,,,,,,,,,,,,,,,0.0
+Demetrius Taylor DL SUS,Demetrius Taylor DL,SUS,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Isaiah Thomas DL - CLE D,Isaiah Thomas,DL,CLE,TEN,FA,,,,,,,,,,,,,,,,,0.0
+Nick Thurman DL - CAR,Nick Thurman,DL,CAR,@SEA,FA,,,,,,,,,,,,,,,,,0.0
+Khyiris Tonga DL - MIN,Khyiris Tonga,DL,MIN,LAC,FA,,,,,,,,,,,,,,,,,0.0
+Casey Toohill DL - WAS,Casey Toohill,DL,WAS,BUF,FA,,,,,,,,,,,,,,,,,0.0
+Jay Tufele DL - CIN,Jay Tufele,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Josh Tupou DL - CIN,Josh Tupou,DL,CIN,LA,FA,,,,,,,,,,,,,,,,,0.0
+Payton Turner DL - NO IR,Payton Turner,DL,NO,@GB,FA,,,,,,,,,,,,,,,,,0.0
+Jaylen Twyman DL,Jaylen Twyman,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Eyioma Uwazurike DL - DEN SUS,Eyioma Uwazurike,DL,DEN,@MIA,FA,,,,,,,,,,,,,,,,,0.0
+Zach VanValkenburg DL - LA,Zach VanValkenburg,DL,LA,@CIN,FA,,,,,,,,,,,,,,,,,0.0
+Kendal Vickers DL - BUF,Kendal Vickers,DL,BUF,@WAS,FA,,,,,,,,,,,,,,,,,0.0
+Taron Vincent DL,Taron Vincent,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Raymond Vohasek DL,Raymond Vohasek,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Broderick Washington DL - BAL,Broderick Washington,DL,BAL,IND,FA,,,,,,,,,,,,,,,,,0.0
+Carlos Watkins DL - ARI IR,Carlos Watkins,DL,ARI,DAL,FA,,,,,,,,,,,,,,,,,0.0
+Armon Watts DL - PIT,Armon Watts,DL,PIT,@LV,FA,,,,,,,,,,,,,,,,,0.0
+Curtis Weaver DL,Curtis Weaver,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Keion White DL - NE,Keion White,DL,NE,@NYJ,FA,,,,,,,,,,,,,,,,,0.0
+Kenny Willekes DL,Kenny Willekes,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Brandon Williams DL,Brandon Williams,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Chris Williams DL,Chris Williams,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Raequan Williams DL - CAR,Raequan Williams,DL,CAR,@SEA,FA,,,,,,,,,,,,,,,,,0.0
+Sam Williams DL - DAL,Sam Williams,DL,DAL,@ARI,FA,,,,,,,,,,,,,,,,,0.0
+Jordan Willis DL,Jordan Willis,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Tyree Wilson DL - LV,Tyree Wilson,DL,LV,PIT,FA,,,,,,,,,,,,,,,,,0.0
+Perrion Winfrey DL,Perrion Winfrey,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Chase Winovich DL - MIA,Chase Winovich,DL,MIA,DEN,FA,,,,,,,,,,,,,,,,,0.0
+Jamal Woods DL,Jamal Woods,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Renell Wren DL - PIT IR,Renell Wren,DL,PIT,@LV,FA,,,,,,,,,,,,,,,,,0.0
+Justin Zimmer DL Q,Justin Zimmer DL,Q,,Bye,FA,,,,,,,,,,,,,,,,,0.0
+Jabari Zuniga DL,Jabari Zuniga,DL,,Bye,FA,,,,,,,,,,,,,,,,,0.0

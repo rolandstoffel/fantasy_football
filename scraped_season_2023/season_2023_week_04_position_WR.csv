@@ -1,0 +1,397 @@
+Player,Name,Position,Team,Opp,Manager,Passing_Comp,Passing_Yds,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Rec,Receiving_Yds,Receiving_TD,Return_Yds,Return_TD,Misc_FumTD,Misc_2PT,Fumble_Lost,Fumble_Fum,Fantasy_Points
+Nico Collins WR - HOU,Nico Collins,WR,HOU,PIT,dirty birds,,,,,,,7.0,168.0,2.0,,,,,,,63.8
+A.J. Brown WR - PHI,A.J. Brown,WR,PHI,WAS,Koblenz 87ers,,,,,,,9.0,175.0,2.0,,,,,,,63.5
+Stefon Diggs WR - BUF,Stefon Diggs,WR,BUF,MIA,GLADIATORS of NORSCHT,,,,,,,6.0,120.0,3.0,,,,,,,61.0
+Puka Nacua WR - LA,Puka Nacua,WR,LA,@IND,St Quintin Heidschnucken,,,,,,,9.0,163.0,1.0,,,,,,,44.3
+DJ Moore WR - CHI,DJ Moore,WR,CHI,DEN,Bad Wildcats Hunschat,,,,,,,8.0,131.0,1.0,,,,,,,37.1
+Brandon Aiyuk WR - SF,Brandon Aiyuk,WR,SF,ARI,St Quintin Heidschnucken,,,,,,,6.0,148.0,,,,,,,,30.8
+Chris Godwin WR - TB,Chris Godwin,WR,TB,@NO,dirty birds,,,,,,,8.0,114.0,,,,,,,,30.4
+Michael Wilson WR - ARI,Michael Wilson,WR,ARI,@SF,FA,,,,,,,7.0,76.0,2.0,,,,,,,26.6
+Justin Jefferson WR - MIN,Justin Jefferson,WR,MIN,@CAR,Alta Villa Cardinals,,,,,,,6.0,85.0,2.0,,,,,,,26.5
+Braxton Berrios WR - MIA,Braxton Berrios,WR,MIA,@BUF,FA,,,,,11.0,,6.0,43.0,1.0,91.0,,,,,,26.05
+Terry McLaurin WR - WAS,Terry McLaurin,WR,WAS,@PHI,Washington Fantasy Team,,,,,,,8.0,86.0,,,,1.0,,,,25.6
+Romeo Doubs WR - GB,Romeo Doubs,WR,GB,DET,dirty birds,,,,,,,9.0,95.0,,,,,,,,18.5
+Curtis Samuel WR - WAS,Curtis Samuel,WR,WAS,@PHI,W (Oct 11),,,,,1.0,1.0,7.0,51.0,,,,,,,,18.3
+Deven Thompkins WR - TB,Deven Thompkins,WR,TB,@NO,FA,,,,,11.0,,4.0,45.0,1.0,7.0,,,,,,17.05
+Christian Kirk WR - JAX,Christian Kirk,WR,JAX,ATL,dirty birds,,,,,,,8.0,84.0,,12.0,,,,,,17.0
+Marquise Brown WR - ARI,Marquise Brown,WR,ARI,@SF,FlyRamsFly,,,,,,,7.0,96.0,,,,,,,,16.6
+Amon-Ra St. Brown WR - DET D,Amon,,Ra,@GB,Washington Fantasy Team,,,,,,,5.0,56.0,1.0,,,,,,,16.6
+Nick Westbrook-Ikhine WR - TEN,Nick,Westbrook,Ikhine,CIN,FA,,,,,,,5.0,51.0,1.0,,,,,,,16.1
+CeeDee Lamb WR - DAL,CeeDee Lamb,WR,DAL,NE,Slay,,,,,12.0,,4.0,36.0,1.0,,,,,,,16.0
+Adam Thielen WR - CAR,Adam Thielen,WR,CAR,MIN,FlyRamsFly,,,,,6.0,,7.0,76.0,,,,,,,,15.8
+Davante Adams WR - LV Q View News,Davante Adams,WR,LV,@LAC,GLADIATORS of NORSCHT,,,,,,,8.0,75.0,,,,,,,,15.5
+Gabe Davis WR - BUF,Gabe Davis,WR,BUF,MIA,Boppard Raiders,,,,,,,3.0,61.0,1.0,,,,,,,15.1
+Allen Lazard WR - NYJ,Allen Lazard,WR,NYJ,KC,Koblenz 87ers,,,,,,,3.0,61.0,1.0,,,,,,,15.1
+Garrett Wilson WR - NYJ,Garrett Wilson,WR,NYJ,KC,Wbn Beasts,,,,,,,9.0,60.0,,,,,,,,15.0
+DeVonta Smith WR - PHI,DeVonta Smith,WR,PHI,WAS,Boppard Raiders,,,,,,,7.0,78.0,,,,,,,,14.8
+Ja'Marr Chase WR - CIN,Ja'Marr Chase,WR,CIN,@TEN,Magic Eulers,,,,,,,7.0,73.0,,,,,,,,14.3
+Jahan Dotson WR - WAS,Jahan Dotson,WR,WAS,@PHI,W (Oct 11),,,,,,,4.0,27.0,1.0,,,,,,,12.7
+Derius Davis WR - LAC,Derius Davis,WR,LAC,LV,FA,,,,,51.0,,2.0,16.0,,33.0,,,,,1.0,12.45
+DK Metcalf WR - SEA,DK Metcalf,WR,SEA,@NYG,dirty birds,,,,,,,3.0,34.0,1.0,,,,,,,12.4
+Keenan Allen WR - LAC,Keenan Allen,WR,LAC,LV,FlyRamsFly,,,,,,,3.0,32.0,1.0,,,,,,,12.2
+Drake London WR - ATL,Drake London,WR,ATL,@JAX,Alta Villa Cardinals,,,,,,,3.0,28.0,1.0,,,,,,,11.8
+Calvin Ridley WR - JAX,Calvin Ridley,WR,JAX,ATL,Wbn Beasts,,,,,,,2.0,38.0,1.0,,,,,,,11.8
+Courtland Sutton WR - DEN,Courtland Sutton,WR,DEN,@CHI,St Quintin Heidschnucken,,,,,,,3.0,27.0,1.0,,,,,,,11.7
+Tyreek Hill WR - MIA,Tyreek Hill,WR,MIA,@BUF,Slay,,,,,14.0,,3.0,58.0,,,,,,,,11.6
+Christian Watson WR - GB View News,Christian Watson,WR,GB,DET,Alta Villa Cardinals,,,,,,,2.0,25.0,1.0,,,,,,,11.5
+Michael Gallup WR - DAL,Michael Gallup,WR,DAL,NE,FA,,,,,,,5.0,60.0,,,,,,,,11.0
+Josh Palmer WR - LAC,Josh Palmer,WR,LAC,LV,FA,,,,,,,3.0,77.0,,,,,,,,10.7
+Rashid Shaheed WR - NO,Rashid Shaheed,WR,NO,TB,FA,,,,,,,3.0,33.0,,84.0,,,,,,10.5
+Wan'Dale Robinson WR - NYG,Wan'Dale Robinson,WR,NYG,SEA,FA,,,,,7.0,,5.0,40.0,,,,,,,,10.4
+DeAndre Hopkins WR - TEN,DeAndre Hopkins,WR,TEN,CIN,St Quintin Heidschnucken,,,,,,,4.0,63.0,,,,,,,,10.3
+Jalen Tolbert WR - DAL,Jalen Tolbert,WR,DAL,NE,FA,,,,,,,4.0,53.0,,,,,,,,10.3
+Kalif Raymond WR - DET,Kalif Raymond,WR,DET,@GB,FA,,,,,40.0,,1.0,-2.0,,27.0,,,,,,10.15
+Josh Reynolds WR - DET Q,Josh Reynolds,WR,DET,@GB,FA,,,,,,,3.0,69.0,,,,,,,,9.9
+Tyler Lockett WR - SEA,Tyler Lockett,WR,SEA,@NYG,Bad Wildcats Hunschat,,,,,,,4.0,54.0,,,,,,,,9.4
+Michael Thomas WR - NO,Michael Thomas,WR,NO,TB,Koblenz 87ers,,,,,,,4.0,53.0,,,,,,,,9.3
+Darnell Mooney WR - CHI,Darnell Mooney,WR,CHI,DEN,W (Oct 11),,,,,,,4.0,51.0,,,,,,,,9.1
+Trey Palmer WR - TB,Trey Palmer,WR,TB,@NO,FA,,,,,,,2.0,6.0,1.0,,,,,,,8.6
+Jaylen Waddle WR - MIA,Jaylen Waddle,WR,MIA,@BUF,Boppard Raiders,,,,,,,4.0,46.0,,,,,,,,8.6
+Jayden Reed WR - GB,Jayden Reed,WR,GB,DET,GLADIATORS of NORSCHT,,,,,,,3.0,55.0,,,,,1.0,,1.0,8.5
+Tutu Atwell WR - LA,Tutu Atwell,WR,LA,@IND,Magic Eulers,,,,,,,5.0,24.0,,,,,,,,8.4
+Jerry Jeudy WR - DEN,Jerry Jeudy,WR,DEN,@CHI,Magic Eulers,,,,,,,3.0,52.0,,,,,,,,8.2
+Marvin Mims Jr. WR - DEN,Marvin Mims Jr.,WR,DEN,@CHI,Bad Wildcats Hunschat,,,,,,,2.0,47.0,,25.0,,,,,,7.95
+Zay Flowers WR - BAL,Zay Flowers,WR,BAL,@CLE,Wbn Beasts,,,,,-6.0,,3.0,56.0,,,,,,,,7.4
+Brandon Johnson WR - DEN,Brandon Johnson,WR,DEN,@CHI,FA,,,,,,,1.0,4.0,1.0,,,,,,,7.4
+Devin Duvernay WR - BAL,Devin Duvernay,WR,BAL,@CLE,FA,,,,,,,2.0,8.0,,91.0,,,,,,7.35
+Dyami Brown WR - WAS,Dyami Brown,WR,WAS,@PHI,W (Oct 11),,,,,,,2.0,51.0,,,,,,,,7.1
+Mike Evans WR - TB Q,Mike Evans,WR,TB,@NO,GLADIATORS of NORSCHT,,,,,,,3.0,40.0,,,,,,,,7.0
+Calvin Austin III WR - PIT,Calvin Austin III,WR,PIT,@HOU,FA,,,,,5.0,,3.0,24.0,,9.0,,,,,,6.85
+Tyler Boyd WR - CIN,Tyler Boyd,WR,CIN,@TEN,FA,,,,,,,4.0,26.0,,,,,,,,6.6
+Demario Douglas WR - NE,Demario Douglas,WR,NE,@DAL,FA,,,,,,,2.0,45.0,,-2.0,,,,,,6.4
+Chris Moore WR - TEN,Chris Moore,WR,TEN,CIN,FA,,,,,,,1.0,44.0,,,,,,,1.0,6.4
+Ray-Ray McCloud WR - SF,Ray,,Ray,ARI,FA,,,,,,,2.0,22.0,,42.0,,,,,,6.3
+Rashee Rice WR - KC,Rashee Rice,WR,KC,@NYJ,FA,,,,,,,3.0,32.0,,,,,,,,6.2
+Tank Dell WR - HOU,Tank Dell,WR,HOU,PIT,Magic Eulers,,,,,13.0,,1.0,16.0,,14.0,,,,,1.0,5.9
+Kendrick Bourne WR - NE,Kendrick Bourne,WR,NE,@DAL,FlyRamsFly,,,,,,,2.0,36.0,,,,,,,,5.6
+Robert Woods WR - HOU,Robert Woods,WR,HOU,PIT,FA,,,,,,,3.0,26.0,,,,,,,,5.6
+Michael Pittman WR - IND,Michael Pittman,WR,IND,LA,Boppard Raiders,,,,,,,1.0,15.0,,,,,1.0,,,5.5
+Samori Toure WR - GB,Samori Toure,WR,GB,DET,FA,,,,,,,1.0,35.0,,,,,,,,5.5
+Josh Downs WR - IND,Josh Downs,WR,IND,LA,FA,,,,,,,2.0,34.0,,,,,,,,5.4
+Isaiah Hodgins WR - NYG,Isaiah Hodgins,WR,NYG,SEA,FA,,,,,,,3.0,24.0,,,,,,,,5.4
+Jakobi Meyers WR - LV,Jakobi Meyers,WR,LV,@LAC,Washington Fantasy Team,,,,,,,2.0,33.0,,,,,,,,5.3
+DeVante Parker WR - NE,DeVante Parker,WR,NE,@DAL,FA,,,,,,,2.0,33.0,,,,,,,,5.3
+Laviska Shenault Jr. WR - CAR,Laviska Shenault Jr.,WR,CAR,MIN,FA,,,,,7.0,,1.0,12.0,,24.0,,,,,,5.3
+Van Jefferson WR - LA,Van Jefferson,WR,LA,@IND,FA,,,,,,,2.0,29.0,,,,,,,,4.9
+DJ Chark WR - CAR,DJ Chark,WR,CAR,MIN,FA,,,,,,,2.0,28.0,,,,,,,,4.8
+Trent Sherfield WR - BUF,Trent Sherfield,WR,BUF,MIA,FA,,,,,,,2.0,18.0,,,,,,,,4.8
+Parris Campbell WR - NYG,Parris Campbell,WR,NYG,SEA,FA,,,,,,,3.0,15.0,,,,,,,,4.5
+Zach Pascal WR - ARI,Zach Pascal,WR,ARI,@SF,FA,,,,,,,3.0,10.0,,,,,,,,4.5
+Darius Slayton WR - NYG,Darius Slayton,WR,NYG,SEA,FA,,,,,,,2.0,23.0,,,,,,,,4.3
+Kadarius Toney WR - KC,Kadarius Toney,WR,KC,@NYJ,FA,,,,,,,2.0,22.0,,,,,,,,4.2
+Tee Higgins WR - CIN Q View News,Tee Higgins,WR,CIN,@TEN,Washington Fantasy Team,,,,,,,2.0,19.0,,,,,,,,3.9
+KhaDarel Hodge WR - ATL,KhaDarel Hodge,WR,ATL,@JAX,FA,,,,,,,2.0,19.0,,,,,,,,3.9
+Skyy Moore WR - KC,Skyy Moore,WR,KC,@NYJ,FA,,,,,19.0,,,,,,,,,,,3.8
+Tyler Scott WR - CHI,Tyler Scott,WR,CHI,DEN,W (Oct 11),,,,,19.0,,,,,,,,,,,3.8
+Brandin Cooks WR - DAL,Brandin Cooks,WR,DAL,NE,Wbn Beasts,,,,,,,4.0,27.0,,,,,,,1.0,3.7
+K.J. Osborn WR - MIN,K.J. Osborn,WR,MIN,@CAR,FA,,,,,,,1.0,16.0,,,,,,,,3.6
+Jaxon Smith-Njigba WR - SEA,Jaxon,Smith,Njigba,@NYG,FA,,,,,,,3.0,5.0,,,,,,,,3.5
+JuJu Smith-Schuster WR - NE,JuJu,Smith,Schuster,@DAL,FA,,,,,,,1.0,14.0,,,,,,,,3.4
+John Metchie III WR - HOU Q,John Metchie III,WR,HOU,PIT,FA,,,,,,,1.0,22.0,,,,,,,,3.2
+Hunter Renfrow WR - LV,Hunter Renfrow,WR,LV,@LAC,FA,,,,,,,2.0,12.0,,,,,,,,3.2
+Equanimeous St. Brown WR - CHI Q,Equanimeous St. Brown,WR,CHI,DEN,W (Oct 11),,,,,,,1.0,21.0,,,,,,,,3.1
+Deonte Harty WR - BUF,Deonte Harty,WR,BUF,MIA,FA,,,,,,,2.0,10.0,,,,,,,,3.0
+Jalin Hyatt WR - NYG,Jalin Hyatt,WR,NYG,SEA,FA,,,,,,,2.0,10.0,,,,,,,,3.0
+Velus Jones Jr. WR - CHI,Velus Jones Jr.,WR,CHI,DEN,W (Oct 11),,,,,10.0,,,,,,,,,,,3.0
+Donovan Peoples-Jones WR - CLE,Donovan,Peoples,Jones,BAL,FA,,,,,,,1.0,7.0,,24.0,,,,,,2.9
+Randall Cobb WR - NYJ,Randall Cobb,WR,NYJ,KC,FA,,,,,,,2.0,8.0,,,,,,,,2.8
+Quentin Johnston WR - LAC,Quentin Johnston,WR,LAC,LV,Slay,,,,,,,1.0,18.0,,,,,,,,2.8
+Allen Robinson WR - PIT,Allen Robinson,WR,PIT,@HOU,FA,,,,,,,1.0,8.0,,,,,,,,2.8
+Xavier Gipson WR - NYJ,Xavier Gipson,WR,NYJ,KC,FA,,,,,13.0,,1.0,4.0,,33.0,,,,,1.0,2.65
+Amari Cooper WR - CLE,Amari Cooper,WR,CLE,BAL,Wbn Beasts,,,,,,,1.0,16.0,,,,,,,,2.6
+George Pickens WR - PIT,George Pickens,WR,PIT,@HOU,Bad Wildcats Hunschat,,,,,,,3.0,25.0,,,,,,,1.0,2.5
+Byron Pringle WR - WAS,Byron Pringle,WR,WAS,@PHI,W (Oct 11),,,,,,,1.0,15.0,,,,,,,,2.5
+Isaiah McKenzie WR - IND,Isaiah McKenzie,WR,IND,LA,FA,,,,,,,1.0,6.0,,13.0,,,,,,2.25
+Khalil Shakir WR - BUF,Khalil Shakir,WR,BUF,MIA,FA,,,,,,,,,,43.0,,,,,,2.15
+Lil'Jordan Humphrey WR - DEN,Lil'Jordan Humphrey,WR,DEN,@CHI,FA,,,,,,,1.0,11.0,,,,,,,,2.1
+Olamide Zaccheaus WR - PHI,Olamide Zaccheaus,WR,PHI,WAS,FA,,,,,,,1.0,11.0,,,,,,,,2.1
+DeAndre Carter WR - LV,DeAndre Carter,WR,LV,@LAC,FA,,,,,,,,,,41.0,,,,,,2.05
+Cody Thompson WR - SEA,Cody Thompson,WR,SEA,@NYG,FA,,,,,,,1.0,10.0,,,,,,,,2.0
+Britain Covey WR - PHI View News,Britain Covey,WR,PHI,WAS,FA,,,,,,,,,,38.0,,,,,,1.9
+Willie Snead WR - SF,Willie Snead,WR,SF,ARI,FA,,,,,,,1.0,9.0,,,,,,,,1.9
+Mason Kinsey WR - TEN,Mason Kinsey,WR,TEN,CIN,FA,,,,,,,,,,37.0,,,,,,1.85
+Ihmir Smith-Marsette WR - CAR,Ihmir,Smith,Marsette,MIN,FA,,,,,,,,,,35.0,,,,,,1.75
+Ronnie Bell WR - SF,Ronnie Bell,WR,SF,ARI,FA,,,,,,,1.0,7.0,,,,,,,,1.7
+Sterling Shepard WR - NYG,Sterling Shepard,WR,NYG,SEA,FA,,,,,,,1.0,6.0,,,,,,,,1.6
+Marquez Valdes-Scantling WR - KC,Marquez,Valdes,Scantling,@NYJ,FA,,,,,,,1.0,6.0,,,,,,,,1.6
+Cedric Tillman WR - CLE,Cedric Tillman,WR,CLE,BAL,FA,,,,,,,1.0,5.0,,,,,,,,1.5
+Justin Watson WR - KC,Justin Watson,WR,KC,@NYJ,FA,,,,,,,1.0,5.0,,,,,,,,1.5
+Nelson Agholor WR - BAL,Nelson Agholor,WR,BAL,@CLE,FA,,,,,,,1.0,4.0,,,,,,,,1.4
+Chris Olave WR - NO,Chris Olave,WR,NO,TB,Boppard Raiders,,,,,,,1.0,4.0,,,,,,,,1.4
+Rakim Jarrett WR - TB,Rakim Jarrett,WR,TB,@NO,FA,,,,,,,1.0,3.0,,,,,,,,1.3
+Deebo Samuel WR - SF,Deebo Samuel,WR,SF,ARI,FlyRamsFly,,,,,6.0,,,,,,,,,,,1.2
+Colton Dowell WR - TEN,Colton Dowell,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,1.0
+Simi Fehoko WR - LAC,Simi Fehoko,WR,LAC,LV,FA,,,,,,,,,,,,,,,,1.0
+Marquise Goodwin WR - CLE,Marquise Goodwin,WR,CLE,BAL,FA,,,,,,,1.0,,,,,,,,,1.0
+Xavier Hutchinson WR - HOU,Xavier Hutchinson,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,1.0
+Laquon Treadwell WR - BAL View News,Laquon Treadwell,WR,BAL,@CLE,FA,,,,,,,,,,,,,,,,1.0
+Tim Jones WR - JAX,Tim Jones,WR,JAX,ATL,FA,,,,,,,1.0,-1.0,,,,,,,,0.9
+Austin Trammell WR - LA,Austin Trammell,WR,LA,@IND,FA,,,,,,,,,,15.0,,,,,,0.75
+Jamison Crowder WR - WAS,Jamison Crowder,WR,WAS,@PHI,W (Oct 11),,,,,,,,,,14.0,,,,,,0.7
+Greg Dortch WR - ARI,Greg Dortch,WR,ARI,@SF,FA,,,,,,,,,,13.0,,,,,,0.65
+Andrei Iosivas WR - CIN,Andrei Iosivas,WR,CIN,@TEN,FA,,,,,,,,,,,,,,,,0.5
+Montrell Washington WR - KC,Montrell Washington,WR,KC,@NYJ,FA,,,,,,,,,,10.0,,,,,,0.5
+Brandon Powell WR - MIN,Brandon Powell,WR,MIN,@CAR,FA,,,,,,,,,,9.0,,,,,,0.45
+Trent Taylor WR - CHI,Trent Taylor,WR,CHI,DEN,W (Oct 11),,,,,,,,,,8.0,,,,,,0.4
+Parker Washington WR - JAX IR View News,Parker Washington,WR,JAX,ATL,FA,,,,,,,,,,5.0,,,,,,0.25
+Jordan Addison WR - MIN,Jordan Addison,WR,MIN,@CAR,Slay,,,,,,,,,,,,,,,,0.0
+Jamal Agnew WR - JAX Q,Jamal Agnew,WR,JAX,ATL,FA,,,,,,,,,,,,,,,,0.0
+Maurice Alexander WR - DET,Maurice Alexander,WR,DET,@GB,FA,,,,,,,,,,,,,,,,0.0
+Josh Ali WR - ATL IR,Josh Ali,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Devon Allen WR - PHI,Devon Allen,WR,PHI,WAS,FA,,,,,,,,,,,,,,,,0.0
+Kazmeir Allen WR - WAS,Kazmeir Allen,WR,WAS,@PHI,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Daniel Arias WR - KC,Daniel Arias,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Marcell Ateman WR,Marcell Ateman,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kevin Austin Jr. WR,Kevin Austin Jr.,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Andre Baccellia WR - ARI,Andre Baccellia,WR,ARI,@SF,FA,,,,,,,,,,,,,,,,0.0
+Alex Bachman WR Q,Alex Bachman WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kawaan Baker WR,Kawaan Baker,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Daylen Baldwin WR Q,Daylen Baldwin WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Taye Barber WR,Taye Barber,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jose Barbon WR,Jose Barbon,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Cole Beasley WR - NYG O,Cole Beasley,WR,NYG,SEA,FA,,,,,,,,,,,,,,,,0.0
+Odell Beckham Jr. WR - BAL Q View News,Odell Beckham Jr.,WR,BAL,@CLE,FA,,,,,,,,,,,,,,,,0.0
+David Bell WR - CLE,David Bell,WR,CLE,BAL,FA,,,,,,,,,,,,,,,,0.0
+Trinity Benson WR,Trinity Benson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jared Bernhardt WR,Jared Bernhardt,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Stanley Berryhill WR,Stanley Berryhill,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tarik Black WR - BAL,Tarik Black,WR,BAL,@CLE,FA,,,,,,,,,,,,,,,,0.0
+C.J. Board WR Q,C.J. Board WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jake Bobo WR - SEA,Jake Bobo,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Slade Bolden WR,Slade Bolden,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jadakis Bonds WR,Jadakis Bonds,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kayshon Boutte WR - NE,Kayshon Boutte,WR,NE,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Lynn Bowden WR - NO,Lynn Bowden,WR,NO,TB,FA,,,,,,,,,,,,,,,,0.0
+Zion Bowens WR,Zion Bowens,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Miles Boykin WR - PIT,Miles Boykin,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Ja'Marcus Bradley WR Q,Ja'Marcus Bradley WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Shemar Bridges WR,Shemar Bridges,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jalen Brooks WR - DAL,Jalen Brooks,WR,DAL,NE,FA,,,,,,,,,,,,,,,,0.0
+Noah Brown WR - HOU IR,Noah Brown,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+Jason Brownlee WR - NYJ,Jason Brownlee,WR,NYJ,KC,FA,,,,,,,,,,,,,,,,0.0
+Treylon Burks WR - TEN O,Treylon Burks,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,0.0
+Braxton Burmeister WR,Braxton Burmeister,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Hakeem Butler WR Q,Hakeem Butler WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Terrell Bynum WR - LAC,Terrell Bynum,WR,LAC,LV,FA,,,,,,,,,,,,,,,,0.0
+Damiere Byrd WR Q,Damiere Byrd WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Antonio Callaway WR,Antonio Callaway,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Marquez Callaway WR - LV,Marquez Callaway,WR,LV,@LAC,FA,,,,,,,,,,,,,,,,0.0
+Jalen Camp WR,Jalen Camp,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Malachi Carter WR,Malachi Carter,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kody Case WR,Kody Case,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Irvin Charles WR - NYJ View News,Irvin Charles,WR,NYJ,KC,FA,,,,,,,,,,,,,,,,0.0
+Dan Chisena WR,Dan Chisena,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Cody Chrest WR,Cody Chrest,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Chase Claypool WR - MIA,Chase Claypool,WR,MIA,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Tyrie Cleveland WR,Tyrie Cleveland,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Brian Cobbs WR,Brian Cobbs,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Keelan Cole WR - LV,Keelan Cole,WR,LV,@LAC,FA,,,,,,,,,,,,,,,,0.0
+Chris Coleman WR,Chris Coleman,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Chris Conley WR - SF,Chris Conley,WR,SF,ARI,FA,,,,,,,,,,,,,,,,0.0
+Elijah Cooks WR - JAX,Elijah Cooks,WR,JAX,ATL,FA,,,,,,,,,,,,,,,,0.0
+Pharoh Cooper WR,Pharoh Cooper,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jacob Copeland WR,Jacob Copeland,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Chase Cota WR - KC,Chase Cota,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Jeff Cotton WR Q,Jeff Cotton WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Isaiah Coulter WR,Isaiah Coulter,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+River Cracraft WR - MIA IR,River Cracraft,WR,MIA,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Kekoa Crawford WR Q,Kekoa Crawford WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Aron Cruickshank WR,Aron Cruickshank,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dallas Daniels WR,Dallas Daniels,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Frank Darby WR - ATL,Frank Darby,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Corey Davis WR,Corey Davis,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Daewood Davis WR Q,Daewood Davis WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Shaquan Davis WR - NO,Shaquan Davis,WR,NO,TB,FA,,,,,,,,,,,,,,,,0.0
+Dontay Demus Jr. WR,Dontay Demus Jr.,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Phillip Dorsett WR - DEN,Phillip Dorsett,WR,DEN,@CHI,FA,,,,,,,,,,,,,,,,0.0
+Keelan Doss WR - LAC,Keelan Doss,WR,LAC,LV,FA,,,,,,,,,,,,,,,,0.0
+Dontario Drummond WR,Dontario Drummond,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dylan Drummond WR - DET View News,Dylan Drummond,WR,DET,@GB,FA,,,,,,,,,,,,,,,,0.0
+Grant DuBose WR - GB,Grant DuBose,WR,GB,DET,FA,,,,,,,,,,,,,,,,0.0
+Ashton Dulin WR - IND IR,Ashton Dulin,WR,IND,LA,FA,,,,,,,,,,,,,,,,0.0
+David Durden WR - DAL IR,David Durden,WR,DAL,NE,FA,,,,,,,,,,,,,,,,0.0
+Bryan Edwards WR,Bryan Edwards,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Alex Erickson WR - LAC,Alex Erickson,WR,LAC,LV,FA,,,,,,,,,,,,,,,,0.0
+D'Wayne Eskridge WR - SEA SUS,D'Wayne Eskridge,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Erik Ezukanma WR - MIA,Erik Ezukanma,WR,MIA,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Ethan Fernea WR Q,Ethan Fernea WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dez Fitzpatrick WR - PIT,Dez Fitzpatrick,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Bryce Ford-Wheaton WR - NYG IR,Bryce,Ford,Wheaton,SEA,FA,,,,,,,,,,,,,,,,0.0
+Daurice Fountain WR - DET,Daurice Fountain,WR,DET,@GB,FA,,,,,,,,,,,,,,,,0.0
+Ty Fryfogle WR,Ty Fryfogle,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Russell Gage WR - TB IR,Russell Gage,WR,TB,@NO,FA,,,,,,,,,,,,,,,,0.0
+Kaylon Geiger WR,Kaylon Geiger,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kenny Golladay WR,Kenny Golladay,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jakeem Grant WR - CLE IR,Jakeem Grant,WR,CLE,BAL,FA,,,,,,,,,,,,,,,,0.0
+Danny Gray WR - SF IR,Danny Gray,WR,SF,ARI,FA,,,,,,,,,,,,,,,,0.0
+Taylor Grimes WR,Taylor Grimes,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jalen Guyton WR - LAC PUP,Jalen Guyton,WR,LAC,LV,FA,,,,,,,,,,,,,,,,0.0
+John Hall WR,John Hall,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+KJ Hamler WR - IND,KJ Hamler,WR,IND,LA,FA,,,,,,,,,,,,,,,,0.0
+Mecole Hardman WR - NYJ,Mecole Hardman,WR,NYJ,KC,FA,,,,,,,,,,,,,,,,0.0
+Mike Harley Jr. WR,Mike Harley Jr.,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Keilahn Harris WR,Keilahn Harris,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tre'Shaun Harrison WR - TEN,Tre'Shaun Harrison,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,0.0
+Penny Hart WR - ATL IR,Penny Hart,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Jadon Haselwood WR,Jadon Haselwood,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Malik Heath WR - GB,Malik Heath,WR,GB,DET,FA,,,,,,,,,,,,,,,,0.0
+Ra'Shaun Henry WR Q,Ra'Shaun Henry WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Elijah Higgins WR - ARI,Elijah Higgins,WR,ARI,@SF,FA,,,,,,,,,,,,,,,,0.0
+John Hightower WR,John Hightower,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kendall Hinton WR,Kendall Hinton,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Mac Hippenhammer WR,Mac Hippenhammer,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Mack Hollins WR - ATL,Mack Hollins,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Gavin Holmes WR,Gavin Holmes,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dennis Houston WR - NYG,Dennis Houston,WR,NYG,SEA,FA,,,,,,,,,,,,,,,,0.0
+Tyler Hudson WR,Tyler Hudson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Andy Isabella WR - BUF,Andy Isabella,WR,BUF,MIA,FA,,,,,,,,,,,,,,,,0.0
+DeSean Jackson WR,DeSean Jackson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kearis Jackson WR - TEN IR,Kearis Jackson,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,0.0
+Lucky Jackson WR - MIN,Lucky Jackson,WR,MIN,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Shedrick Jackson WR - CIN,Shedrick Jackson,WR,CIN,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Richie James WR - KC IR,Richie James,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Sam James WR,Sam James,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jaray Jenkins WR Q,Jaray Jenkins WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Gary Jennings WR,Gary Jennings,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jauan Jennings WR - SF,Jauan Jennings,WR,SF,ARI,FA,,,,,,,,,,,,,,,,0.0
+Cade Johnson WR - SEA,Cade Johnson,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Cephus Johnson III WR - TB,Cephus Johnson III,WR,TB,@NO,FA,,,,,,,,,,,,,,,,0.0
+Collin Johnson WR,Collin Johnson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Diontae Johnson WR - PIT IR,Diontae Johnson,WR,PIT,@HOU,Slay,,,,,,,,,,,,,,,,0.0
+Johnny Johnson III WR - HOU,Johnny Johnson III,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+KeeSean Johnson WR,KeeSean Johnson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tyler Johnson WR - LA,Tyler Johnson,WR,LA,@IND,FA,,,,,,,,,,,,,,,,0.0
+Tyron Johnson WR - DAL,Tyron Johnson,WR,DAL,NE,FA,,,,,,,,,,,,,,,,0.0
+Charlie Jones WR - CIN IR,Charlie Jones,WR,CIN,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Marvin Jones WR - DET,Marvin Jones,WR,DET,@GB,FA,,,,,,,,,,,,,,,,0.0
+Zay Jones WR - JAX Q,Zay Jones,WR,JAX,ATL,FA,,,,,,,,,,,,,,,,0.0
+Jerome Kapp WR,Jerome Kapp,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Marcus Kemp WR,Marcus Kemp,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tom Kennedy WR Q,Tom Kennedy WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Johnny King WR,Johnny King,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Keith Kirkwood WR - NO,Keith Kirkwood,WR,NO,TB,FA,,,,,,,,,,,,,,,,0.0
+Malik Knowles WR - MIN NFI-R,Malik Knowles,WR,MIN,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Cooper Kupp WR - LA View News,Cooper Kupp,WR,LA,@IND,Koblenz 87ers,,,,,,,,,,,,,,,,0.0
+Chris Lacy WR Q,Chris Lacy WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Matt Landers WR - CAR,Matt Landers,WR,CAR,MIN,FA,,,,,,,,,,,,,,,,0.0
+Ed Lee WR,Ed Lee,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tyjon Lindsey WR - SEA,Tyjon Lindsey,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+T.J. Luther WR - NE,T.J. Luther,WR,NE,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Garett Maag WR,Garett Maag,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Xavier Malone WR - ATL View News,Xavier Malone,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Tay Martin WR - SF,Tay Martin,WR,SF,ARI,FA,,,,,,,,,,,,,,,,0.0
+Jesse Matthews WR - HOU IR,Jesse Matthews,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+Jordan Matthews WR,Jordan Matthews,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Cameron McCutcheon WR - LA,Cameron McCutcheon,WR,LA,@IND,FA,,,,,,,,,,,,,,,,0.0
+Lance McCutcheon WR - HOU,Lance McCutcheon,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+Kyric McGowan WR Q,Kyric McGowan WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Racey McMath WR - IND,Racey McMath,WR,IND,LA,FA,,,,,,,,,,,,,,,,0.0
+Bo Melton WR - GB,Bo Melton,WR,GB,DET,FA,,,,,,,,,,,,,,,,0.0
+Kirk Merritt WR,Kirk Merritt,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jaydon Mickens WR,Jaydon Mickens,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Anthony Miller WR,Anthony Miller,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dre Miller WR,Dre Miller,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Ryan Miller WR - TB,Ryan Miller,WR,TB,@NO,FA,,,,,,,,,,,,,,,,0.0
+Scott Miller WR - ATL,Scott Miller,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Dax Milne WR - WAS IR,Dax Milne,WR,WAS,@PHI,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Denzel Mims WR - PIT,Denzel Mims,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Jonathan Mingo WR - CAR,Jonathan Mingo,WR,CAR,MIN,FA,,,,,,,,,,,,,,,,0.0
+David Moore WR - TB,David Moore,WR,TB,@NO,FA,,,,,,,,,,,,,,,,0.0
+Elijah Moore WR - CLE,Elijah Moore,WR,CLE,BAL,FA,,,,,-20.0,,2.0,20.0,,,,,,,,0.0
+Jaylon Moore WR - JAX IR,Jaylon Moore,WR,JAX,ATL,FA,,,,,,,,,,,,,,,,0.0
+Jalen Moreno-Cropper WR - DAL,Jalen,Moreno,Cropper,NE,FA,,,,,,,,,,,,,,,,0.0
+Stanley Morgan WR - CIN,Stanley Morgan,WR,CIN,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Jalen Nailor WR - MIN IR,Jalen Nailor,WR,MIN,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Dazz Newsome WR,Dazz Newsome,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Joseph Ngata WR - PHI,Joseph Ngata,WR,PHI,WAS,FA,,,,,,,,,,,,,,,,0.0
+Tre Nixon WR - NE IR,Tre Nixon,WR,NE,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Gunner Olszewski WR - PIT,Gunner Olszewski,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Dezmon Patmon WR,Dezmon Patmon,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tim Patrick WR - DEN IR,Tim Patrick,WR,DEN,@CHI,FA,,,,,,,,,,,,,,,,0.0
+Breshad Perriman WR,Breshad Perriman,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+A.T. Perry WR - NO,A.T. Perry,WR,NO,TB,FA,,,,,,,,,,,,,,,,0.0
+Dante Pettis WR Q,Dante Pettis WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kyle Philips WR - TEN View News,Kyle Philips,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,0.0
+Chris Pierce WR,Chris Pierce,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kalil Pimpleton WR,Kalil Pimpleton,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Thyrick Pitts WR,Thyrick Pitts,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Makai Polk WR,Makai Polk,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Cornell Powell WR - KC,Cornell Powell,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+James Proche WR,James Proche,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Blake Proehl WR,Blake Proehl,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Kendric Pryor WR - CIN,Kendric Pryor,WR,CIN,@TEN,FA,,,,,,,,,,,,,,,,0.0
+Charleston Rambo WR Q,Charleston Rambo WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jalen Reagor WR - NE,Jalen Reagor,WR,NE,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Joe Reed WR - CHI IR,Joe Reed,WR,CHI,DEN,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Nikko Remigio WR - KC IR,Nikko Remigio,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Demarcus Robinson WR - LA,Demarcus Robinson,WR,LA,@IND,FA,,,,,,,,,,,,,,,,0.0
+Amari Rodgers WR - IND,Amari Rodgers,WR,IND,LA,FA,,,,,,,,,,,,,,,,0.0
+John Ross WR,John Ross,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Justyn Ross WR - KC,Justyn Ross,WR,KC,@NYJ,FA,,,,,,,,,,,,,,,,0.0
+Sean Ryan WR - BAL,Sean Ryan,WR,BAL,@CLE,FA,,,,,,,,,,,,,,,,0.0
+Jalen Sample WR,Jalen Sample,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Braylon Sanders WR - MIA,Braylon Sanders,WR,MIA,@BUF,FA,,,,,,,,,,,,,,,,0.0
+C.J. Saunders WR - ATL,C.J. Saunders,WR,ATL,@JAX,FA,,,,,,,,,,,,,,,,0.0
+Anthony Schwartz WR Q,Anthony Schwartz WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Ty Scott WR,Ty Scott,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Zavier Scott WR,Zavier Scott,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tyrell Shavers WR - BUF,Tyrell Shavers,WR,BUF,MIA,FA,,,,,,,,,,,,,,,,0.0
+Darrius Shepherd WR Q,Darrius Shepherd WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Justin Shorter WR - BUF IR,Justin Shorter,WR,BUF,MIA,FA,,,,,,,,,,,,,,,,0.0
+David Sills WR - DEN,David Sills,WR,DEN,@CHI,FA,,,,,,,,,,,,,,,,0.0
+Cam Sims WR - NYG,Cam Sims,WR,NYG,SEA,FA,,,,,,,,,,,,,,,,0.0
+Steven Sims WR - HOU,Steven Sims,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+Ben Skowronek WR - LA,Ben Skowronek,WR,LA,@IND,FA,,,,,,,,,,,,,,,,0.0
+Jeff Smith WR - ARI,Jeff Smith,WR,ARI,@SF,FA,,,,,,,,,,,,,,,,0.0
+Shi Smith WR - TEN,Shi Smith,WR,TEN,CIN,FA,,,,,,,,,,,,,,,,0.0
+Tre'Quan Smith WR - DEN,Tre'Quan Smith,WR,DEN,@CHI,FA,,,,,,,,,,,,,,,,0.0
+Vyncint Smith WR,Vyncint Smith,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Xavier Smith WR - LA,Xavier Smith,WR,LA,@IND,FA,,,,,,,,,,,,,,,,0.0
+Diontae Spencer WR Q,Diontae Spencer WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+John Stephens Jr. WR - DAL IR,John Stephens Jr.,WR,DAL,NE,FA,,,,,,,,,,,,,,,,0.0
+Mike Strachan WR - CAR,Mike Strachan,WR,CAR,MIN,FA,,,,,,,,,,,,,,,,0.0
+Freddie Swain WR - MIA,Freddie Swain,WR,MIA,@BUF,FA,,,,,,,,,,,,,,,,0.0
+Auden Tate WR,Auden Tate,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Malik Taylor WR - NYJ,Malik Taylor,WR,NYJ,KC,FA,,,,,,,,,,,,,,,,0.0
+Mike Thomas WR Q,Mike Thomas WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Thayer Thomas WR - MIN,Thayer Thomas,WR,MIN,@CAR,FA,,,,,,,,,,,,,,,,0.0
+Bryan Thompson WR - BUF,Bryan Thompson,WR,BUF,MIA,FA,,,,,,,,,,,,,,,,0.0
+Keytaon Thompson WR,Keytaon Thompson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Tyquan Thornton WR - NE IR,Tyquan Thornton,WR,NE,@DAL,FA,,,,,,,,,,,,,,,,0.0
+Mitchell Tinsley WR - WAS IA,Mitchell Tinsley,WR,WAS,@PHI,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Brycen Tremayne WR - WAS,Brycen Tremayne,WR,WAS,@PHI,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Tre Tucker WR - LV,Tre Tucker,WR,LV,@LAC,FA,,,,,,,,,,,,,,,,0.0
+DJ Turner WR,DJ Turner,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Malik Turner WR,Malik Turner,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Josh Vann WR,Josh Vann,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jalen Virgil WR - DEN IR,Jalen Virgil,WR,DEN,@CHI,FA,,,,,,,,,,,,,,,,0.0
+Tylan Wallace WR - BAL IR,Tylan Wallace,WR,BAL,@CLE,FA,,,,,,,,,,,,,,,,0.0
+Greg Ward WR - PHI,Greg Ward,WR,PHI,WAS,FA,,,,,,,,,,,,,,,,0.0
+Kade Warner WR,Kade Warner,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+James Washington WR,James Washington,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Austin Watkins Jr. WR - CLE,Austin Watkins Jr.,WR,CLE,BAL,FA,,,,,,,,,,,,,,,,0.0
+Quez Watkins WR - PHI,Quez Watkins,WR,PHI,WAS,FA,,,,,,,,,,,,,,,,0.0
+Duece Watts WR - PIT,Duece Watts,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Jalen Wayne WR,Jalen Wayne,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Jared Wayne WR - HOU,Jared Wayne,WR,HOU,PIT,FA,,,,,,,,,,,,,,,,0.0
+Nsimba Webster WR - CHI,Nsimba Webster,WR,CHI,DEN,W (Oct 11),,,,,,,,,,,,,,,,0.0
+Antoine Wesley WR,Antoine Wesley,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Braxton Westfield WR,Braxton Westfield,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Isaiah Weston WR,Isaiah Weston,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Cody White WR Q,Cody White WR,Q,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Dontayvion Wicks WR - GB,Dontayvion Wicks,WR,GB,DET,FA,,,,,,,,,,,,,,,,0.0
+Kristian Wilkerson WR - LV,Kristian Wilkerson,WR,LV,@LAC,FA,,,,,,,,,,,,,,,,0.0
+Jameson Williams WR - DET Q View News,Jameson Williams,WR,DET,@GB,FA,,,,,,,,,,,,,,,,0.0
+Mike Williams WR - LAC IR,Mike Williams,WR,LAC,LV,Slay,,,,,,,,,,,,,,,,0.0
+Preston Williams WR,Preston Williams,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Rod Williams WR - PIT,Rod Williams,WR,PIT,@HOU,FA,,,,,,,,,,,,,,,,0.0
+Seth Williams WR - JAX,Seth Williams,WR,JAX,ATL,FA,,,,,,,,,,,,,,,,0.0
+Pokey Wilson WR,Pokey Wilson,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Javon Wims WR,Javon Wims,WR,,Bye,FA,,,,,,,,,,,,,,,,0.0
+Juwann Winfree WR - IND,Juwann Winfree,WR,IND,LA,FA,,,,,,,,,,,,,,,,0.0
+Isaiah Winstead WR - SF,Isaiah Winstead,WR,SF,ARI,FA,,,,,,,,,,,,,,,,0.0
+Easop Winston WR - SEA,Easop Winston,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Mike Woods WR - CLE,Mike Woods,WR,CLE,BAL,FA,,,,,,,,,,,,,,,,0.0
+Derek Wright WR - CAR,Derek Wright,WR,CAR,MIN,FA,,,,,,,,,,,,,,,,0.0
+Dareke Young WR - SEA IR,Dareke Young,WR,SEA,@NYG,FA,,,,,,,,,,,,,,,,0.0
+Trenton Irwin WR - CIN,Trenton Irwin,WR,CIN,@TEN,FA,,,,,,,1.0,17.0,,2.0,,,,,1.0,-0.2
